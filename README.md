@@ -213,7 +213,7 @@ ________________
 
 
 Experiment 
-Date frady 28 feb
+Date friday 28 feb
 
 
 What
@@ -223,8 +223,47 @@ I want to create a surrounding entity to the interactions - a feeling of envelop
 
 
 Ambition - Why does this matter?
-I wanted to maint
+I wanted to maintain focus in the installation
 
 
 Results - why 
 The experiment was slightkly unsuccesful there needs to be a smaller throw to the lights - maybe some LED strips would be more useful and control them
+
+
+Experiment 
+Date Tuesday 6th October 2020
+
+
+What
+Facial recognition test
+https://github.com/boblete/Facial-Recognition-Sonification-Test
+
+Ambition - Why does this matter?
+After the thesis I wish to explore sounds ability to target the body at a distance - facial recognition is one of the those issues
+
+
+Results - Why 
+
+Experiment 
+Date Thursday 13th-sat 17th October 2020
+
+
+What
+Facial recognition test
+https://github.com/boblete/frst-MA-DMSA
+
+Ambition - Why does this matter?
+First test combining facial recognition software and react
+
+
+Results - Why 
+So this is the first test at seeing if we can make the webapp porthin - the test is totally successful - I am able to make a fingerprint in data of faces based on FACE-API then test to see if the Algorhythm will find them again - this totally works - scanned every member of the family and having a full face recognition test - need to find the bias issues noted in the git-lab - the software allegedly fails on non-biased faces - we need to set a timeout on the camera / recognition connection  - and also if the face returns undefined then we request that they store them - 
+
+This has sparked thoughts about how the app should work - the web portion should reveal and allow us to surrepticiously collect information about the user.
+
+So we can get their IP address - 
+We could ask them to post their fingerprint - sharing is an excellent circumnavigator of security as peoples willingness to sousveil themselves and share themselves will be key to gleaming information from them. -> shre location add nsa hashtag to a tweet along with a visual fingerprint.
+
+What if the installation does nothing unless you sign up - your face goes ignored unless registered? what does that say? 
+
+We should be able to give a multilayered
