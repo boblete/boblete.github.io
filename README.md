@@ -4,7 +4,7 @@ Date Sept 31 2019
 
 What?
 Choral Audio Test 01
-https://soundcloud.com/boblet/choral-audio-test-01/s-8kBu3
+[SOUNDCLOUD CHORAL](https://soundcloud.com/boblet/choral-audio-test-01/s-8kBu3)
 
 
 I create a choral audio test - based on some white noise and samples of the voice I aimed to look at giving a computer a voice. I wanted to see if I could create something that wouldnt be too boring that created the sound of the machine and was obviously 
