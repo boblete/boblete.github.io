@@ -266,4 +266,32 @@ We could ask them to post their fingerprint - sharing is an excellent circumnavi
 
 What if the installation does nothing unless you sign up - your face goes ignored unless registered? what does that say? 
 
-We should be able to give a multilayered
+We should be able to give a multilayered effect - need to understand what each section of sound will be.
+
+
+Experiment 
+Date Thursday 20th October 2020
+
+What
+Facial recognition test 002
+https://github.com/boblete/frst-MA-DMSA
+
+Ambition - Why does this matter?
+Trying to work out if I can get information out of the face api that I can use for instrumentation
+
+Results - Why 
+Sucess - I can now map faces record face fingerprints and sonify them in tone.js
+
+
+Experiment 
+Date Thursday 20th October 2020
+
+
+What
+Facial recognition test 003
+https://github.com/boblete/frst-MA-DMSA
+
+Ambition - Why does this matter?
+This is a new branch to look at expression recognition data set
+
+Results - Why 
