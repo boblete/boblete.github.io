@@ -1,5 +1,5 @@
 Experiment 1
-Date Sept 31
+Date Sept 31 2019
 
 
 What?
@@ -7,32 +7,27 @@ Choral Audio Test 01
 https://soundcloud.com/boblet/choral-audio-test-01/s-8kBu3
 
 
-I create a choral audio test - based on some white noise and samples of the voice I aimed to look at giving a computer a voice. I wanted to see if I could create something that wouldnt be too boring that created the sound of the 
+I create a choral audio test - based on some white noise and samples of the voice I aimed to look at giving a computer a voice. I wanted to see if I could create something that wouldnt be too boring that created the sound of the machine and was obviously 
 
 
-Concept - Why Did I do this?
-In or
+Concept - Why did I do this?
+In order to understand the aesthetics of machine voices.
 
 
 Ambition - Why does this matter?
-To give 
+To give the machines voiuces is to reveal them - what is the aesthetic nature of these voices/
 
 
 Results - why 
-I personally like the results - however the response from the group triggered a range of emotions
+I personally like the results - however the response from the group triggered a range of emotions :
 
-
-Boredom from some - and I agree
+Boredom from some -  I agree
 Others thought it too continuous….that there was no breath to the voices
-This is an interesting comment
-
-
+This is an interesting comment and maybe that makes it the machine
 ________________
 
-
 Experiment 2
-Date Oct
-
+Date 2 Oct 2019
 
 What
 Mini mix
@@ -42,44 +37,33 @@ https://soundcloud.com/boblet/dmsa-listening-guide-minimix
 Concept - Why Did I do this?
 I wanted to create a little point of reference to my historic work to ensure that aesthetically I do not (or do) deviate from the work that has come before
 
-
 Ambition - Why does this matter?
 I wanted to maintain some core aesthetics from previous projects
-
 
 Results - why 
 I can already see by adding in the last experiment that to the end of the mix that I need to be more aggressive in my sound choices
 
-
 ________________
 
-
 Experiment 3
-Date 
-
+Date 10 OCt 2019
 
 What
 Live jam with new sounds alongside my normal pallet of sounds to refind the work that I was doing before. Utilising my live set with some of the washes from previous experiments and using some fm synth work with heavy overdrive I created some other controllers using theramins as input.
 https://soundcloud.com/boblet/first-fuzz-fm-overdrive/s-09NVJ
 
-
-
-
 Concept - Why Did I do this?
 To try and find a more active sound pallet that is more in keeping with my previous work
-
-
-
 
 Ambition - Why does this matter?
 I wish to build on my work rather than reinvent the work. 
 
-
 Results - 
 The results are much more aesthetically pleasing. It maintains my connection to club culture that was missing, but I feel that the sound could be pushed further. The use of a guitar as an instrument and the theremin reflect some of the work I am trying to build with 
 ________________
+
 Experiment 4
-Date 
+Date 30 OCT 2019
 
 
 What
@@ -100,8 +84,7 @@ Results - why
 I was hoping that the voices would be more like myself - however currently they are far too synthetic. Any quality is MASKED by the digital nature of the voices….. 
 ________________
 Experiment 5
-Date 
-
+Date 4 Nov 2019
 
 What
 https://youtu.be/LSviEkwfoZg
@@ -111,23 +94,17 @@ Slit scan experiment
 Concept - Why Did I do this?
 I want to record people in time and get them to move their movement and behavior being used to generate and alter the composition. - for them to react I need something ‘fun’ just as the major sp’s like google  use services to extract behavior as a surplus.I built a series of magic ‘mirrors’ that look at video over time...
 
-
 Ambition - Why does this matter?
-
+Interaction needs investment and encourages a playful audience this is a way that reveals recording in a playful way.
 
 Results - why 
 The slit scan is a great part as it utilises the body as its input and shows that people are being recorded.
-
-
 ________________
-
 
 Experiment 6
 Date 
 
-
-What 
-
+What did I do?
 
 Live jam with some body controled modular synths built in RACK and processing
 I reworked this into a composition 
@@ -154,85 +131,32 @@ https://youtu.be/RQ1XXCvKtXQ
 
 
 Concept - Why Did I do this?
-Utilising slit scan 
-
-
-
+Utilising slit scan and sound to create emmersion
 
 Ambition - Why does this matter?
 
-
 Results - why 
 
-
 ________________
+
 
 
 Experiment 
-Date 
-
-
-What
-I create a choral audio test - based 
-Concept - Why Did I do this?
-
-
-
-
-Ambition - Why does this matter?
-I wanted to maint
-
-
-Results - why 
-
-
-________________
-
-
-Experiment 
-Date 
-
-
-What
-I create a choral audio test - based 
-Concept - Why Did I do this?
-
-
-
-
-Ambition - Why does this matter?
-I wanted to maint
-
-
-Results - why 
-________________
-________________
-
-
-________________
-
-
-Experiment 
-Date friday 28 feb
-
+Date friday 28 feb 2020
 
 What
 Lighting test Millimin 
 Concept - Why Did I do this?
-I want to create a surrounding entity to the interactions - a feeling of envelopment. I want to see if I can create reactions within millimin to control a simple dmx lighting rig and screen that reacts to 
-
+I want to create a surrounding entity to the interactions - a feeling of envelopment. I want to see if I can create reactions within millimin to control a simple dmx lighting rig and screen that reacts to. 
 
 Ambition - Why does this matter?
 I wanted to maintain focus in the installation
 
-
 Results - why 
 The experiment was slightkly unsuccesful there needs to be a smaller throw to the lights - maybe some LED strips would be more useful and control them
 
-
 Experiment 
 Date Tuesday 6th October 2020
-
 
 What
 Facial recognition test
@@ -241,12 +165,14 @@ https://github.com/boblete/Facial-Recognition-Sonification-Test
 Ambition - Why does this matter?
 After the thesis I wish to explore sounds ability to target the body at a distance - facial recognition is one of the those issues
 
-
 Results - Why 
+We can track faces in the browser with a webcam
+
+
+________________
 
 Experiment 
 Date Thursday 13th-sat 17th October 2020
-
 
 What
 Facial recognition test
@@ -254,7 +180,6 @@ https://github.com/boblete/frst-MA-DMSA
 
 Ambition - Why does this matter?
 First test combining facial recognition software and react
-
 
 Results - Why 
 So this is the first test at seeing if we can make the webapp porthin - the test is totally successful - I am able to make a fingerprint in data of faces based on FACE-API then test to see if the Algorhythm will find them again - this totally works - scanned every member of the family and having a full face recognition test - need to find the bias issues noted in the git-lab - the software allegedly fails on non-biased faces - we need to set a timeout on the camera / recognition connection  - and also if the face returns undefined then we request that they store them - 
@@ -268,7 +193,7 @@ What if the installation does nothing unless you sign up - your face goes ignore
 
 We should be able to give a multilayered effect - need to understand what each section of sound will be.
 
-
+________________
 Experiment 
 Date Thursday 20th October 2020
 
@@ -282,10 +207,9 @@ Trying to work out if I can get information out of the face api that I can use f
 Results - Why 
 Sucess - I can now map faces record face fingerprints and sonify them in tone.js
 
-
+________________
 Experiment 
 Date Thursday 20th October 2020
-
 
 What
 Facial recognition test 003
