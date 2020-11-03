@@ -30,8 +30,7 @@ Experiment 2
 Date 2 Oct 2019
 
 What
-Mini mix
-https://soundcloud.com/boblet/dmsa-listening-guide-minimix
+[Mini mix](https://soundcloud.com/boblet/dmsa-listening-guide-minimix)
 
 
 Concept - Why Did I do this?
@@ -50,7 +49,7 @@ Date 10 OCt 2019
 
 What
 Live jam with new sounds alongside my normal pallet of sounds to refind the work that I was doing before. Utilising my live set with some of the washes from previous experiments and using some fm synth work with heavy overdrive I created some other controllers using theramins as input.
-https://soundcloud.com/boblet/first-fuzz-fm-overdrive/s-09NVJ
+[FUZZ FM OVERDRIVE](https://soundcloud.com/boblet/first-fuzz-fm-overdrive/s-09NVJ)
 
 Concept - Why Did I do this?
 To try and find a more active sound pallet that is more in keeping with my previous work
@@ -68,7 +67,7 @@ Date 30 OCT 2019
 
 What
 Utilising Lyrebird as a voice generation program….
-https://soundcloud.com/boblet/8-audio-0001-2019-10-24-221956
+[Voice](https://soundcloud.com/boblet/8-audio-0001-2019-10-24-221956)
 VIA
 
 
@@ -87,8 +86,8 @@ Experiment 5
 Date 4 Nov 2019
 
 What
-https://youtu.be/LSviEkwfoZg
-Slit scan experiment
+
+[Slit scan experiment](https://youtu.be/LSviEkwfoZg)
 
 
 Concept - Why Did I do this?
@@ -108,7 +107,7 @@ What did I do?
 
 Live jam with some body controled modular synths built in RACK and processing
 I reworked this into a composition 
-https://soundcloud.com/boblet/middlerhythm-02
+[Middle Rhythm 2](https://soundcloud.com/boblet/middlerhythm-02)
 Concept - Why Did I do this?
 To see what kind of sounds were created by using the body - and if they can be tuned to an existing composition. Utilising signal data 
 
@@ -124,11 +123,7 @@ Date
 
 What
 Sonification test….
-Matching video and data mapped to a synth….
-https://youtu.be/RQ1XXCvKtXQ
-
-
-
+[Matching video and data mapped to a synth…](https://youtu.be/RQ1XXCvKtXQ)
 
 Concept - Why Did I do this?
 Utilising slit scan and sound to create emmersion
@@ -142,7 +137,7 @@ ________________
 
 
 Experiment 
-Date friday 28 feb 2020
+Date Friday 28 FEB 2020
 
 What
 Lighting test Millimin 
