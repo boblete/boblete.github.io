@@ -228,3 +228,21 @@ This is a new branch to look at expression recognition data set
 
 Results - 
 Still not working need to understand how to test faces
+
+Experiment
+Thursday 5th Novemeber 2020
+Facial recognition test 004 
+Ambition - Why does this matter?
+Trying to at least register all the features I can gleam from each moment
+Changing the sound design to something more delicate so it draws the user in
+Syncing the TIME to a tone timeline - 
+It would be great if FINDING a face fingerprint changed the rhythm of the piece - if we are drawing grids COULD we have a bunch of tone instruments with teeny tiny samples in them that are triggered by the numbers? If we are mapping to grey scale simply then we can map to a midi value? 
+
+Results
+Now utilising vanvas parameter binding I can utilise the extra face API models to write out the labels:
+also want to quickly use ffmpeg to create mp3 versions of ABLETON jams for aifs - this works
+ for i in *.aif; do ffmpeg -i "$i" -vn -ar 44100 -ac 2 -b:a 192k "${i%.avi}.mp3"; done
+
+ After playing with this for a while I am not hearing a face - the compositional instrument does not seem to sound like the mesh - so maybe I need something more delicate - I like the Idea of playing with really long delay times and fading the canvas back though time 
+
+ Each c
