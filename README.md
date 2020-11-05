@@ -129,12 +129,11 @@ Concept - Why Did I do this?
 Utilising slit scan and sound to create emmersion
 
 Ambition - Why does this matter?
+How does rective sound change the experience?
 
-Results - why 
+Results 
 
 ________________
-
-
 
 Experiment 
 Date Friday 28 FEB 2020
@@ -154,8 +153,7 @@ Experiment
 Date Tuesday 6th October 2020
 
 What
-Facial recognition test
-https://github.com/boblete/Facial-Recognition-Sonification-Test
+[Facial recognition test](https://github.com/boblete/Facial-Recognition-Sonification-Test)
 
 Ambition - Why does this matter?
 After the thesis I wish to explore sounds ability to target the body at a distance - facial recognition is one of the those issues
@@ -170,8 +168,7 @@ Experiment
 Date Thursday 13th-sat 17th October 2020
 
 What
-Facial recognition test
-https://github.com/boblete/frst-MA-DMSA
+[Facial recognition test 2](https://github.com/boblete/frst-MA-DMSA)
 
 Ambition - Why does this matter?
 First test combining facial recognition software and react
@@ -193,14 +190,30 @@ Experiment
 Date Thursday 20th October 2020
 
 What
-Facial recognition test 002
+[Facial recognition test 003](https://github.com/boblete/frst-MA-DMSA)
+
+Ambition - Why does this matter?
+Trying to work out if I can get information out of the face api that I can use for instrumentation online
+
+Results - Why 
+Sucess - I can now map faces record face fingerprints and sonify them in tone.js - visualisation is handled by SVG graphics currently
+
+[![Facial Recognition test 3 video](https://img.youtube.com/vi/v_lw2GM6sqo/0.jpg)](https://www.youtube.com/watch?v=v_lw2GM6sqo)
+It doesnt sound like my face currently
+________________
+Experiment 
+Date Thursday 20th October 2020
+
+What
+Facial recognition test 003
 https://github.com/boblete/frst-MA-DMSA
 
 Ambition - Why does this matter?
-Trying to work out if I can get information out of the face api that I can use for instrumentation
+This is a new branch to look at expression recognition data set
 
-Results - Why 
-Sucess - I can now map faces record face fingerprints and sonify them in tone.js
+Results - 
+Still not working need to understand how to test faces
+
 
 ________________
 Experiment 
@@ -213,4 +226,5 @@ https://github.com/boblete/frst-MA-DMSA
 Ambition - Why does this matter?
 This is a new branch to look at expression recognition data set
 
-Results - Why 
+Results - 
+Still not working need to understand how to test faces
