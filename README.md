@@ -230,11 +230,11 @@ Results -
 Still not working need to understand how to test faces
 
 Experiment
-Thursday 5th Novemeber 2020
+Thursday 5th Novemeber 2020 MORNING
 Facial recognition test 004 
 Ambition - Why does this matter?
 Trying to at least register all the features I can gleam from each moment
-Changing the sound design to something more delicate so it draws the user in
+Changing the sound design to something more delicate so it draws the user in - something brutal reveals anger - but really if the user is KNOWN then it should draw them in with delacacy - the magic of prediction is what is intruiging here - can we play a CHORD based on emotion - can we create an algorhythmic chord progression - something that moves through the whole circle in an upwards fashion - each time we get to a chord we trigger a face check for the 'next' chord - if it is operating correctly then we should be able to OVERLAY the last 2 if we can fade OUT 
 Syncing the TIME to a tone timeline - 
 It would be great if FINDING a face fingerprint changed the rhythm of the piece - if we are drawing grids COULD we have a bunch of tone instruments with teeny tiny samples in them that are triggered by the numbers? If we are mapping to grey scale simply then we can map to a midi value? 
 
@@ -245,4 +245,25 @@ also want to quickly use ffmpeg to create mp3 versions of ABLETON jams for aifs 
 
  After playing with this for a while I am not hearing a face - the compositional instrument does not seem to sound like the mesh - so maybe I need something more delicate - I like the Idea of playing with really long delay times and fading the canvas back though time 
 
- Each c
+Experiment
+Thursday 5th Novemeber 2020 AFTERNOON
+Facial recognition test 005 
+![alt text](/media/5_nov_1.png "2 faces")
+
+Ambition - Why does this matter?
+Fixing up the more compositional issues - and running things from TONE timelines...
+
+All the timers are now tied to tone itself
+
+What was revealed?
+Its too busy - there is sooo much data we need a way of shaping the sound not through pitch but through rhythm and texture.
+theres also a bug in 2 faces that shows up as an issue that I am only passing 1 variable to the face not splitting them - needs adressing that the labeling is uniform...
+
+ //
+What will be done?
+How will it be done?
+What Happened?
+What changed?
+What was revealed?
+
+ //
