@@ -255,9 +255,29 @@ Fixing up the more compositional issues - and running things from TONE timelines
 
 All the timers are now tied to tone itself
 
+What Happened?
+The tests compiled propely with a few minor bugs
+
 What was revealed?
-Its too busy - there is sooo much data we need a way of shaping the sound not through pitch but through rhythm and texture.
+
+It sounds more musical  but Its too busy - there is sooo much data we need a way of shaping the sound not through pitch but through rhythm and texture.
 theres also a bug in 2 faces that shows up as an issue that I am only passing 1 variable to the face not splitting them - needs adressing that the labeling is uniform...
+
+________________
+Experiment 
+Date Tuesday 10 November 2020
+
+What
+SOund Design Test
+https://soundcloud.com/boblet/experiment-10-nov-01/s-t3H9KG2PPXJ
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/926612206%3Fsecret_token%3Ds-x3NgkGGL7rT&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/experiment-10-nov-02/s-x3NgkGGL7rT" title="Experiment 10 nov 02" target="_blank" style="color: #cccccc; text-decoration: none;">Experiment 10 nov 02</a></div>
+
+
+Ambition - Why does this matter?
+Looking at sound design that explores the themes of Security in sound
+
+Results - 
+It has become more ambient - I am not too happy about the ups and downs of the chord progression - its too negative - some aspects of the glitchy sound design are hitting the spot for me - need to work more on the musical aspect - it needs to sound more pensive - more suspensful
 
  //
 What will be done?
@@ -266,4 +286,14 @@ What Happened?
 What changed?
 What was revealed?
 
+________________
+Experiment + Research
+Date Tuesday 17 November 2020
+collecting images from the data sets to gain inspiration about what is going on and the bias of the images and data sets....
  //
+
+Experiment 
+Date Tuesday 19 November 2020
+Looking at Audio from previous experiments as a backing to the installation....
+ //
+
