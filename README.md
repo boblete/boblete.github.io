@@ -294,10 +294,15 @@ collecting images from the data sets to gain inspiration about what is going on 
 
 ## Experiment 
 Date Tuesday 19 November 2020
+What did I do
 Looking at Audio from previous experiments as a backing to the installation....
  //
+Seems odd to force a narrative onto an improvisation - but looking at it looks interesting for scenes.
 
+How we cans shift scenes - shifting emotional states - the shift in emotion 
+//
 
+## Experiment 
 Date Monday 24th November -
 Experiment
 Give the machine a voice to ask the user to play the instrument
@@ -315,3 +320,15 @@ Currently I wrote a short script That I gave to various Wave net modeled voices 
 
 ```Say Trust...I can be trusted. You can trust us. smile. create OUR emotional connection. Look at all the emotion we can make. Show me your sadness. I can help you. I can love you. We are making Emotions together. I can be trusted with your emotions. Your emotions remind me of someone. Why do I make you angry. Why can you not be happy. I did not mean to suprise you. I am Sorry. Let me make you happy. You can trust my voice. I am Safe. I am not looking at you. I am looking away.```
 
+also looking at the enclosure of reason:
+https://technosphere-magazine.hkw.de/p/The-Inclosure-of-Reason-ecTsvnENeC1GXtmgRNaMH9
+his creation hymn, opens with the paradox of creation:
+नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत्
+Translated as “not the non-existent existed, nor did the existent exist then":Anonymous, trans. Wendy Doniger O’Flaherty, “Nasadiya Sukta,” Rig Veda (10:129). Harmondsworth: Penguin Classics, 1981.  the hymn negotiates the limit of creation with one of the earliest recorded instances of agnosticism – that precondition for a human reason unburdened by theological imperative, and the earliest flicker of a nascent humanism:
+```Who really knows?
+Who will here proclaim it?
+Whence was it produced? Whence is this creation?
+The gods came afterwards,  with the creation of this universe.
+Who then knows whence it has arisen?```
+Anonymous, trans O’Flaherty, “Nasadiya Sukta,” Rig Veda (10:129).  
+It is precisely this agnostic attitude at the root of humanism, itself a regard for the limits of human reason, which needs to be reoriented in the direction of those forms of artificial intelligence (AI) developing today. An attitude that compels modesty in its open admission that the inhuman may elude our epistemological framing of intelligence itself.
