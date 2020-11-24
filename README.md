@@ -297,3 +297,21 @@ Date Tuesday 19 November 2020
 Looking at Audio from previous experiments as a backing to the installation....
  //
 
+
+Date Monday 24th November -
+Experiment
+Give the machine a voice to ask the user to play the instrument
+
+Based on this work: One Way Mirror
+Mark Pritchard words are here:
+https://genius.com/Mark-pritchard-one-way-mirror-lyrics
+
+I created this short sequence:
+https://soundcloud.com/boblet/iamsafe-voicebot/s-7VmkiGmLmXg
+
+I want to get someone who knows words better to collaborate with the voice of the machine - as in some stock phrases of what we can say.
+
+Currently I wrote a short script That I gave to various Wave net modeled voices to speak - (https://cloud.google.com/text-to-speech/docs/wavenet)
+
+```Say Trust...I can be trusted. You can trust us. smile. create OUR emotional connection. Look at all the emotion we can make. Show me your sadness. I can help you. I can love you. We are making Emotions together. I can be trusted with your emotions. Your emotions remind me of someone. Why do I make you angry. Why can you not be happy. I did not mean to suprise you. I am Sorry. Let me make you happy. You can trust my voice. I am Safe. I am not looking at you. I am looking away.```
+
