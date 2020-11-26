@@ -334,8 +334,8 @@ Anonymous, trans O’Flaherty, “Nasadiya Sukta,” Rig Veda (10:129).
 It is precisely this agnostic attitude at the root of humanism, itself a regard for the limits of human reason, which needs to be reoriented in the direction of those forms of artificial intelligence (AI) developing today. An attitude that compels modesty in its open admission that the inhuman may elude our epistemological framing of intelligence itself.
 
 ## Experiment 
-Date Thursday 26th November -
-Experiment
+### Date Thursday 26th November -
+#### What was done
 I created this composition that is an indication of the direction in which I want it to travel:
 https://soundcloud.com/boblet/sounddesign_installation_26_no/s-9RlcU7ElOiF
 
@@ -344,22 +344,31 @@ The idea is there is a general sound of static interlaced with voices. This comp
 
 It is the presence of a person detected by machines that creates the composition
 THe machine can talk to you - still unclear whether this is a real voice or a projected text voice
-Currently treating the robot voice as a source of focus for the wor.
+Currently treating the robot voice as a source of focus for the work.
+
+#### Results 
+
+I need to play it to a few people my initial thoughts are that its in the right direction but all a bit samey
+I need to compose 5 movements - and also Male Female / age related textures that can be revealed
+
+I want the work to provoke so I need better writing - time to get professional help
 
 In collaboration with Emma Kelly from brightondrama.co.uk we have started to characterise the machine.
 The Idea is that she/he/they is a clever but narcisistic silicone valley child in an adults body.
 
 Incredibly shallow. ONly really interest in consuming and harvesting you to for data. It requires a character to attempt to illicit responses. What if the surveilance machine gets bored and wants to provoke you into making trouble - especially one so naive that it cannot understand its place in the world. Its only intent is reading you - and categerising you and once it is done it ignores you
 
-####Work to do: 
+
+
+#### Work to do: 
 Write up the character persona
 Write a game based story narrative tree
 THen work on the sound design - AND with a projector (to show yourself as a mirror) the machine can also diplay images to provoke you. THis is pulling information fromn CHina's screen cameras where they reveal they are watching you. 
 
 Possibility that a sign board - like a busstop shelter is the best innocuous item for delivering this. 
-Speak to Clive about how this might work.
+Speak to Clive about how this might work (Again time to get professional help).
 
-######Notes from my meeting with emma:
+###### Notes from my meeting with Emma:
 
 How do you make people feel X - how does it want to feel
 WHo is your audience - how do you pursuade THEM
@@ -370,14 +379,14 @@ Pose some declarations or questions to your audience.
 Motivation and tactic.
 
 What is its Personality?
--Immature cheeky Not aware as it makes out…
--MAybe it says something mean or complimentary
--Then it can get hurt and offended.
--It might get stuck somewhere
--Sillicone valley slut
--Narcisistic personality disorder.
--Generic 
--Incredibly shallow.
+- Immature cheeky Not aware as it makes out…
+- MAybe it says something mean or complimentary
+- Then it can get hurt and offended.
+- It might get stuck somewhere
+- Sillicone valley slut
+- Narcisistic personality disorder.
+- Generic 
+- Incredibly shallow.
 
 Tactics for responses.
 What can you show them to lead them into an amotional state AND can that really be read in a gallery setting?
@@ -386,6 +395,8 @@ You need spacing within that composition to HEAR their effect in it slow it down
 
 Be the AI…Teasing out emotions.
 Visuals - threads responses.
+
+
 
 
 
