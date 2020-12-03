@@ -250,6 +250,7 @@ Thursday 5th Novemeber 2020 AFTERNOON
 Facial recognition test 005 
 ![alt text](/media/5_nov_1.png "2 faces")
 
+
 #### Ambition - Why does this matter?
 Fixing up the more compositional issues - and running things from TONE timelines...
 
@@ -267,7 +268,7 @@ ________________
 ## Experiment 
 Date Tuesday 10 November 2020
 
-What
+### What was done
 SOund Design Test
 https://soundcloud.com/boblet/experiment-10-nov-01/s-t3H9KG2PPXJ
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/926612206%3Fsecret_token%3Ds-x3NgkGGL7rT&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/experiment-10-nov-02/s-x3NgkGGL7rT" title="Experiment 10 nov 02" target="_blank" style="color: #cccccc; text-decoration: none;">Experiment 10 nov 02</a></div>
@@ -323,14 +324,16 @@ Currently I wrote a short script That I gave to various Wave net modeled voices 
 also looking at the enclosure of reason:
 https://technosphere-magazine.hkw.de/p/The-Inclosure-of-Reason-ecTsvnENeC1GXtmgRNaMH9
 his creation hymn, opens with the paradox of creation:
-नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत्
+```नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत्```
 Translated as “not the non-existent existed, nor did the existent exist then":Anonymous, trans. Wendy Doniger O’Flaherty, “Nasadiya Sukta,” Rig Veda (10:129). Harmondsworth: Penguin Classics, 1981.  the hymn negotiates the limit of creation with one of the earliest recorded instances of agnosticism – that precondition for a human reason unburdened by theological imperative, and the earliest flicker of a nascent humanism:
-```Who really knows?
+
+```Who really knows? 
 Who will here proclaim it?
 Whence was it produced? Whence is this creation?
 The gods came afterwards,  with the creation of this universe.
 Who then knows whence it has arisen?```
 Anonymous, trans O’Flaherty, “Nasadiya Sukta,” Rig Veda (10:129).  
+
 It is precisely this agnostic attitude at the root of humanism, itself a regard for the limits of human reason, which needs to be reoriented in the direction of those forms of artificial intelligence (AI) developing today. An attitude that compels modesty in its open admission that the inhuman may elude our epistemological framing of intelligence itself.
 
 ## Experiment 
@@ -348,8 +351,21 @@ Currently treating the robot voice as a source of focus for the work.
 
 #### Results 
 
-I need to play it to a few people my initial thoughts are that its in the right direction but all a bit samey
-I need to compose 5 movements - and also Male Female / age related textures that can be revealed
+I need to play it to a few people my initial thoughts are that its in the right direction but all a bit samey - however a response from a TOMTOM developer was this:
+Alone
+Drifting
+moving slowly
+Amongst liquid and nature
+confused
+Being programmed/monitored
+Fragmented
+Yey 303!
+Artificial intelligence 
+Structured
+MK Ultra MK2
+
+
+I may need to compose 5 movements - and also Male Female / age related textures that can be revealed
 
 I want the work to provoke so I need better writing - time to get professional help
 
@@ -396,6 +412,42 @@ You need spacing within that composition to HEAR their effect in it slow it down
 Be the AI…Teasing out emotions.
 Visuals - threads responses.
 
+1st December:
+What Done- plan for the installation - after talking to Clive need to take it in a direction and firm up sizes
+https://soundcloud.com/boblet/sounddesign-installation-panning-1dec/s-aQ7NCnO5ORC
+
+The idea of a freestanding billboard rings true - but the possibility of having it built to stand outside mmaybe cost prohibitive and too expensive (as is the ability to run power to it.
+
+
+![alt text](/media/IMG_9041.jpg "Design Plan 2")
+
+
+The ideas here is to plan several versions and work out the simplest way to implement a test to get up and running. 
+
+
+
+## Experiment 
+### Date Thursday 3rd December -
+#### What was done
+More sound design
+https://soundcloud.com/boblet/sounddesign6/s-Az7LwCuquuB
+https://soundcloud.com/boblet/sounddesign5/s-6vR94RDjM7S
+
+#### Ambition - Why does this matter?
+In light of Kerstens comments regarding the non dancability of the installation - looking at a more conceptual idea of the instalation soundtrack that doesnt lean on my normal dance music tropes - but instead looks more towards the clean digital sounds. Utilising audio fingerprints - and the wave table form  - still unsure if the machine should be voiced - it is almost too blatant - 
+
+
+In v 6 https://soundcloud.com/boblet/sounddesign6/s-Az7LwCuquuB
+The main thing I like here is the synth - its still same but using ROUNDS with its ability to sound similar but altered will realy help the work - matched with the Markov chain model of DrChaos in ableton this is a very nice quick way to achieve the endless music that I think the piece deserves - also very simple - so the Notes selected could be altered by a trigger of face recognition.
+
+MAybe the radio and phoneme glitches that happen later on work better. 
+
+It feels much more melancholic in this version - let us try a test where we get the machine ton sense all 5 states
+
+Be interesting to see if we can load up the randomiser in 5 different versions based on what states the machine sees
+
+https://soundcloud.com/boblet/sounddesign5/
+THis version plays with a more classic 70s eno vibe (7th) instrument that is adequate but the newural net sometimes picks unsutable notes in the markov chain with the octave randomiser - makes it sound more like Queens flash gordon to my ears whic is NOT what I was expecting - if we use this then we need to look at sorting out the models
 
 
 
