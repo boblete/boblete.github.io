@@ -327,11 +327,11 @@ his creation hymn, opens with the paradox of creation:
 ```नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत्```
 Translated as “not the non-existent existed, nor did the existent exist then":Anonymous, trans. Wendy Doniger O’Flaherty, “Nasadiya Sukta,” Rig Veda (10:129). Harmondsworth: Penguin Classics, 1981.  the hymn negotiates the limit of creation with one of the earliest recorded instances of agnosticism – that precondition for a human reason unburdened by theological imperative, and the earliest flicker of a nascent humanism:
 
-```Who really knows? 
+Who really knows? 
 Who will here proclaim it?
 Whence was it produced? Whence is this creation?
 The gods came afterwards,  with the creation of this universe.
-Who then knows whence it has arisen?```
+Who then knows whence it has arisen?
 Anonymous, trans O’Flaherty, “Nasadiya Sukta,” Rig Veda (10:129).  
 
 It is precisely this agnostic attitude at the root of humanism, itself a regard for the limits of human reason, which needs to be reoriented in the direction of those forms of artificial intelligence (AI) developing today. An attitude that compels modesty in its open admission that the inhuman may elude our epistemological framing of intelligence itself.
