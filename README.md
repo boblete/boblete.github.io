@@ -449,7 +449,13 @@ Be interesting to see if we can load up the randomiser in 5 different versions b
 https://soundcloud.com/boblet/sounddesign5/
 THis version plays with a more classic 70s eno vibe (7th) instrument that is adequate but the newural net sometimes picks unsutable notes in the markov chain with the octave randomiser - makes it sound more like Queens flash gordon to my ears whic is NOT what I was expecting - if we use this then we need to look at sorting out the models
 
+## Experiment 
+### Date Monday 7th December -
+#### What was done
+Redoing the sound design using a different synth per last facial expression.
 
+[Sound Design 7](https://soundcloud.com/boblet/sounddesign7/s-TObBlpgMt6o)
 
+[cables](https://cables.gl/edit/5fcf5d06dd01fb43f15dfef2)
 
 
