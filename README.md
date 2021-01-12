@@ -186,6 +186,17 @@ What if the installation does nothing unless you sign up - your face goes ignore
 We should be able to give a multilayered effect - need to understand what each section of sound will be.
 
 ________________
+## Inspiration 
+[Machine Listening festival](https://www.unsound.pl/en/intermission/machine-listening)
+2nd October - Re-watch here: Against The Coming World of Listening Machines
+
+3rd October - Register here: Lessons In How (Not) To Be Heard 
+
+4th October - Register here: Listening With The Pandemic
+
+To quote Liquid Architecture: “Amidst oppressive and extractive forms of state and corporate listening, practices of collaborative study, experimentation and resistance will, we hope, enable us to develop strategies for recalibrating our relationships to machine listening, whether that be through technological interventions, alternative infrastructures, new behaviors, or political demands. With so many cultural producers - whose work and research is crucial for this kind of project - thrown into deeper precarity and an uncertain future by the unfolding pandemic, we also hope that this project will operate as a quasi-institution: a site of collective learning about and mobilisation against the coming world of listening machines.”
+
+________________
 ## Experiment 
 Date Thursday 20th October 2020
 
@@ -458,4 +469,16 @@ Redoing the sound design using a different synth per last facial expression.
 
 [cables](https://cables.gl/edit/5fcf5d06dd01fb43f15dfef2)
 
+![Cables Experiment](media/7_dec_2020_1.png "Cables Experiment")
 
+## Inspiration
+
+Protocols, Permissions and non-human communication with the Indigenous Protocol and Artificial Intelligence Working Group | Holly Herndon and Mat Dryhurst on Patreon
+Podcast https://www.patreon.com/posts/45335690 
+
+Indigenous AI https://www.indigenous-ai.net/ 
+Their Position Paper: https://spectrum.library.concordia.ca/986506/7/Indigenous_Protocol_and_AI_2020.pdf 
+Professor Jason Edward Lewis
+http://jasonlewis.org/ 
+Suzanne Kite
+http://kitekitekitekite.com/
