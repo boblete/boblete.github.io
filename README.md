@@ -507,7 +507,11 @@ Redoing the sound design using a different synth per last facial expression.
 
 [cables](https://cables.gl/edit/5fcf5d06dd01fb43f15dfef2)
 
+
+
 ![Cables Experiment](media/7_dec_2020_1.png "Cables Experiment")
+![Cables screenshot](media/cables_screenshot.png "Cables Screenshot")
+
 
 ## Inspiration
 
