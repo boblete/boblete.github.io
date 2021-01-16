@@ -32,6 +32,7 @@ Date 2 Oct 2019
 What
 [Mini mix](https://soundcloud.com/boblet/dmsa-listening-guide-minimix)
 
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/692661133%3Fsecret_token%3Ds-pN5Pv&color=%2351864e&inverse=true&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/dmsa-listening-guide-minimix/s-pN5Pv" title="DMSA Listening Guide / MiniMix" target="_blank" style="color: #cccccc; text-decoration: none;">DMSA Listening Guide / MiniMix</a></div>
 
 #### Concept - Why Did I do this?
 I wanted to create a little point of reference to my historic work to ensure that aesthetically I do not (or do) deviate from the work that has come before. This contains work from early work as [The Average Man](https://open.spotify.com/artist/3boQxzuvkSpIRhX3JfNJeF?si=mBkz4unTRxaen9njjU58zw) through to [Lil Bo Bleep](https://soundcloud.com/lil-bo-bleep) work and then installation and hack work/
