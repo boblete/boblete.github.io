@@ -233,11 +233,29 @@ Date saturday 23rd October 2020
 What
 [Facial recognition test 003 https://github.com/boblete/frst-MA-DMSA](https://github.com/boblete/frst-MA-DMSA)
 
+
+
+
 #### Ambition - Why does this matter?
 This is a new branch to look at expression recognition data set
 
+
+
 #### Results - 
-Still stumped - rolling back
+Still stumped - rolling back - but getting:
+
+![alt text](/media/Feature_FP_Age_exact_Neutral.png "Neutral")
+
+![alt text](/media/FeatureFP_Angry_Fearful.png "Angry Fearful")
+
+![alt text](/media/FeatureFP_BOB_NEUTRAL.png "NAmed identification")
+
+![alt text](/media/FeatureFP_fearful.png "Fearful")
+
+
+![alt text](/media/FeatureFP_SAD_FEARFUL.png "SAD Fearful")
+
+
 
 ________________
 ## Experiment
