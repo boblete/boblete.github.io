@@ -334,26 +334,43 @@ Seems odd to force a narrative onto an improvisation - but looking at it looks i
 How we cans shift scenes - shifting emotional states - the shift in emotion 
 //
 
+## Inspiration 
+
+This is the inspiration for the next experiment Based on this work: One Way Mirror by Mark Pritchard
+<iframe src="https://open.spotify.com/embed/track/03rEqExKHDpzCBSrdOwEwu" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+Mark Pritchard words are here:
+
+
+Do you feel secure?
+At Hell City Technologies, you can surf in a clean cyber-ocean with no ads, trackers, malware, or phishing attempts. We guard your personal data by using industry-league EAMC276GQM encryption. It's only seven cents a day to secure your digital life. Use Cloakable. Terms and conditions apply
+
+Cities are about people. By improving the human experience, we enhance this city. At the Digital Transparency Collective, our aim is to combine IOT (Internet of Things) and ICT (Information Communication Technology) to optimise the efficient selection of operations and radically improve our new life
+
+The Mindfulness Corporation present the wonders of frequency medication. Are you having trouble sleeping? All creatures, and even plants, need sleep. Using academic research combined with pamphlets and wind chimes, we guarantee increased productivity, performance, and profitability. Subscribe to Mindfulness now and discover that nothing is possible
+
+Welcome to Nuanced Solutions module 1: Building Trust In Your Brand. Say "trust". You can trust us (You can trust us). We can be trusted. Increase emotional connection. You can trust us (You can trust us). We can be trusted (We can be trusted). You can trust us (You can trust us). We can be trusted. At Nuanced Solutions, we believe that algorithms don't feel but people do. Please subscribe today
+
+Digital transparency, data trust, nine trackers blocking, in a smart city. Digital transparency, data trust, image de-identified, in a smart city. Citizen empowerment, data trust, RTB network scrambled, in a smart city. A new visual language for data transparency, voice de-identified, in a smart city
+
+The community that sings together, stays together. Smart city, smart governments. Smart energy, smart building. Smart mobility, smart infrastructure. Smart technology, smart healthcare, smart citizens
+
+[via Genius](https://genius.com/Mark-pritchard-one-way-mirror-lyrics)
+
 ## Experiment 
 Date Monday 24th November -
 Experiment
 Give the machine a voice to ask the user to play the instrument
-
-Based on this work: One Way Mirror
-Mark Pritchard words are here:
-https://genius.com/Mark-pritchard-one-way-mirror-lyrics
-
 I created this short sequence:
-https://soundcloud.com/boblet/iamsafe-voicebot/s-7VmkiGmLmXg
+[iamsaferobot](https://soundcloud.com/boblet/iamsafe-voicebot/s-7VmkiGmLmXg)
 
 I want to get someone who knows words better to collaborate with the voice of the machine - as in some stock phrases of what we can say.
 
-Currently I wrote a short script That I gave to various Wave net modeled voices to speak - (https://cloud.google.com/text-to-speech/docs/wavenet)
+Currently I wrote a short script That I gave to various Wave net modeled voices to speak - [wavenet](https://cloud.google.com/text-to-speech/docs/wavenet)
 
 ```Say Trust...I can be trusted. You can trust us. smile. create OUR emotional connection. Look at all the emotion we can make. Show me your sadness. I can help you. I can love you. We are making Emotions together. I can be trusted with your emotions. Your emotions remind me of someone. Why do I make you angry. Why can you not be happy. I did not mean to suprise you. I am Sorry. Let me make you happy. You can trust my voice. I am Safe. I am not looking at you. I am looking away.```
 
 also looking at the enclosure of reason:
-https://technosphere-magazine.hkw.de/p/The-Inclosure-of-Reason-ecTsvnENeC1GXtmgRNaMH9
+[The-Inclosure-of-Reason](https://technosphere-magazine.hkw.de/p/The-Inclosure-of-Reason-ecTsvnENeC1GXtmgRNaMH9)
 his creation hymn, opens with the paradox of creation:
 ```नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत्```
 Translated as “not the non-existent existed, nor did the existent exist then":Anonymous, trans. Wendy Doniger O’Flaherty, “Nasadiya Sukta,” Rig Veda (10:129). Harmondsworth: Penguin Classics, 1981.  the hymn negotiates the limit of creation with one of the earliest recorded instances of agnosticism – that precondition for a human reason unburdened by theological imperative, and the earliest flicker of a nascent humanism:
@@ -486,6 +503,7 @@ THis version plays with a more classic 70s eno vibe (7th) instrument that is ade
 Redoing the sound design using a different synth per last facial expression.
 
 [Sound Design 7](https://soundcloud.com/boblet/sounddesign7/s-TObBlpgMt6o)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/943085572%3Fsecret_token%3Ds-TObBlpgMt6o&color=%231f1f1f&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/sounddesign7/s-TObBlpgMt6o" title="soundDesign7" target="_blank" style="color: #cccccc; text-decoration: none;">soundDesign7</a></div>
 
 [cables](https://cables.gl/edit/5fcf5d06dd01fb43f15dfef2)
 
@@ -502,3 +520,11 @@ Professor Jason Edward Lewis
 http://jasonlewis.org/ 
 Suzanne Kite
 http://kitekitekitekite.com/
+
+
+Really inspiring podcast about the issues of facial recognition and the problems of technology and indigenous cultures.
+
+
+
+
+
