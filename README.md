@@ -18,8 +18,8 @@ In order to understand the aesthetics of machine voices.
 To give the machines voiuces is to reveal them - what is the aesthetic nature of these voices/
 
 
-#### Results
-I personally like the Resultshowever the response from the group triggered a range of emotions :
+#### Results - 
+I personally like the results - however the response from the group triggered a range of emotions :
 
 Boredom from some -  I agree
 Others thought it too continuous….that there was no breath to the voices
@@ -40,7 +40,7 @@ I wanted to create a little point of reference to my historic work to ensure tha
 #### Ambition - Why does this matter?
 I wanted to maintain some core aesthetics from previous projects. A listening reference is useful to diverge or build on previous output.
 
-#### Results
+#### Results - 
 I can already see by adding in the last experiment that to the end of the mix that I need to be more aggressive in my sound choices
 
 ________________
@@ -58,7 +58,7 @@ To try and find a more active sound pallet that is more in keeping with my previ
 #### Ambition - Why does this matter?
 I wish to build on my work rather than reinvent the sound pallet completely. 
 
-#### Results
+#### Results - 
 The results are much more aesthetically pleasing. It maintains my connection to club culture that was missing, but I feel that the sound could be pushed further. The use of a guitar as an instrument and the theremin reflect some of the work I am trying to build with, but its not in keeping wioth the concept.
 ________________
 
@@ -94,7 +94,7 @@ I want to record people in time and get them to move their movement and behavior
 #### Ambition - Why does this matter?
 Interaction needs investment and encourages a playful audience this is a way that reveals recording in a playful way.
 
-#### Results
+#### Results - 
 The slit scan is a great part as it utilises the body as its input and shows that people are being recorded. It had my kids dancing infrnt of it for some time so the playfulness is there - but without the extra layer of interaction it feels passive.
 ________________
 
@@ -114,7 +114,7 @@ To see what kind of sounds were created by using the body as a controller - and 
 #### Ambition - Why does this matter?
 I was hoping that sensors would work - but without experience this isnt conducive - it also is not passive but active - I feel like the machine should
 
-#### Results
+#### Results - 
 Nice composition but the controllers seem too sporadic
 ________________
 Experiment 7
@@ -147,7 +147,7 @@ I want to create a surrounding entity to the interactions - a feeling of envelop
 #### Ambition - Why does this matter?
 I wanted to maintain focus in the installation drawing in - I have no experience with the DMX rig in the SDL - so I wished to use Millimin ad a brain for the lighting / projection of the installation. Learning a new piece of software - Millimum to see if it is useful. Millimin can take projections out of processing for projecting via syphon - this seems to work nicely - then utilising OSC you can control scenes.
 
-#### Results
+#### Results - 
 The experiment was slightkly unsuccesful there needs to be a smaller throw to the lights - maybe some LED strips would be more useful and control them - also the lighting effected the input of the Kinect something I was not anticipating - if lighting is to be used it should LIGHT the participants not sillhouette them - moving heads might be better but the univercity does not have any.
 
 # Experiment 
@@ -159,7 +159,7 @@ Date Tuesday 6th October 2020
 #### Ambition - Why does this matter?
 After writing the thesis I now have more focus - I wish to explore sounds ability to target the body at a distance - facial recognition is one of the those issues that is plagued with bias and bad data. It is also another modern day silent observer, a secret power, that is known but unknown - ripe for a revealtion. To reveal it through sound is to give it a voice - to hear its presence - whether that be literal or metaphorical. Unclear as to what that would be - but the possibilities start with a hacking experiment - can I find a open source code solution that utilises biased data - but can be built upon. Turning to github returns a single JS library that looks perfect - and one that might have a virtual Covid-19 solution. 
 
-#### Results
+#### Results - 
 We can track faces in the browser with a webcam - this is successful - what is more interesting is the opensource hackable nature of the code. [Face-api.js](https://github.com/justadudewhohacks/face-api.js/) is used with various open source libraries that are part of the wider infrastructure that facial identification and feature extraction is built upon. This is also open source as is the image sets that the data is trained on - that will prove useful in revealing its true nature to an audience.
 
 
@@ -209,7 +209,7 @@ Date Thursday 20th October 2020
 #### Ambition - Why does this matter?
 Trying to work out if I can get information out of the face api that I can use for instrumentation online
 
-#### Results
+#### Results - 
 Sucess - I can now map faces record face fingerprints and sonify them in tone.js - visualisation is handled by SVG graphics currently
 
 [![Facial Recognition test 3 video](https://img.youtube.com/vi/v_lw2GM6sqo/0.jpg)](https://www.youtube.com/watch?v=v_lw2GM6sqo)
@@ -225,7 +225,7 @@ https://github.com/boblete/frst-MA-DMSA
 #### Ambition - Why does this matter?
 This is a new branch to look at expression recognition data set - I can get it running internally with the recognition but extracting the data for my own uses is proving elusive - however might be able to GREP the output.
 
-#### Results
+#### Results - 
 Still not working need to understand how to test faces without just the UI output of FACEAPI framework - more learning will  be needed.
 
 ________________
@@ -243,7 +243,7 @@ This is a new branch to look at expression recognition data set
 
 
 
-#### Results
+#### Results - 
 Still stumped - rolling back - but getting:
 
 ![alt text](/media/Feature_FP_Age_exact_Neutral.png "Neutral")
@@ -309,7 +309,7 @@ Sound Design Test
 #### Ambition - Why does this matter?
 Looking at sound design that explores the themes of Security in sound
 
-#### Results
+#### Results - 
 It has become more ambient - I am not too happy about the ups and downs of the chord progression - its too negative - some aspects of the glitchy sound design are hitting the spot for me - need to work more on the musical aspect - it needs to sound more pensive - more suspensful
 
  //
