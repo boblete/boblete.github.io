@@ -228,6 +228,7 @@ This is a new branch to look at expression recognition data set - I can get it r
 #### Results - 
 Still not working need to understand how to test faces without just the UI output of FACEAPI framework - more learning will  be needed.
 
+
 ________________
 ## Experiment 
 Date saturday 23rd October 2020
@@ -257,7 +258,16 @@ Still stumped - rolling back - but getting:
 
 ![alt text](/media/FeatureFP_SAD_FEARFUL.png "SAD Fearful")
 
+________________
+## Workshop 
+Date Tuesday 2nd November 2020
+Hearing the Impossible with MAtthew Herbert 
 
+### What
+THis workshop looking at scoring impossible sounds - what would those sounds be - the score I have created looks at the idea of the sounds 
+[Score](https://docs.google.com/document/d/e/2PACX-1vS5Ps-nOxtMvAhwB6AkO9HxmTy3NkAGuvVg-vMKmyYusN1PAFhZitU1lRim27pNXF67h4jNN_SEukNv/pub)
+
+![Extract of score](/media/herbertScore.png "Sounding secrecy score")
 
 ________________
 ## Experiment
@@ -387,7 +397,7 @@ It is precisely this agnostic attitude at the root of humanism, itself a regard 
 
 ## Experiment 
 ### Date Thursday 26th November -
-#### What was done
+### What was done
 I created this composition that is an indication of the direction in which I want it to travel:
 https://soundcloud.com/boblet/sounddesign_installation_26_no/s-9RlcU7ElOiF
 
@@ -477,7 +487,7 @@ The ideas here is to plan several versions and work out the simplest way to impl
 
 ## Experiment 
 ### Date Thursday 3rd December -
-#### What was done
+### What was done
 More sound design
 https://soundcloud.com/boblet/sounddesign6/s-Az7LwCuquuB
 https://soundcloud.com/boblet/sounddesign5/s-6vR94RDjM7S
@@ -499,8 +509,8 @@ https://soundcloud.com/boblet/sounddesign5/
 THis version plays with a more classic 70s eno vibe (7th) instrument that is adequate but the newural net sometimes picks unsutable notes in the markov chain with the octave randomiser - makes it sound more like Queens flash gordon to my ears whic is NOT what I was expecting - if we use this then we need to look at sorting out the models
 
 ## Experiment 
-### Date Monday 7th December -
-#### What was done
+Date Monday 7th December -
+### What was done
 Redoing the sound design using a different synth per last facial expression.
 
 [Sound Design 7](https://soundcloud.com/boblet/sounddesign7/s-TObBlpgMt6o)
