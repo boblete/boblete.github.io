@@ -259,16 +259,23 @@ Still stumped - rolling back - but getting:
 ![alt text](/media/FeatureFP_SAD_FEARFUL.png "SAD Fearful")
 
 ________________
+## Inspiration 
+[hownormalami](https://www.hownormalami.eu/)
+In this test face detection algorithms will determine how normal you are. 100% privacy friendly.
+
+Excellent video based online art based on facial recognition algorhythms
+________________
 ## Workshop 
 Date Tuesday 2nd November 2020
 Hearing the Impossible with MAtthew Herbert 
 
 ### What
-THis workshop looking at scoring impossible sounds - what would those sounds be - the score I have created looks at the idea of the sounds 
-[Score](https://docs.google.com/document/d/e/2PACX-1vS5Ps-nOxtMvAhwB6AkO9HxmTy3NkAGuvVg-vMKmyYusN1PAFhZitU1lRim27pNXF67h4jNN_SEukNv/pub)
+THis workshop looking at scoring impossible sounds - what would those sounds be - the score I have created looks at the idea of the sounds that could be possible
+[Full Score](https://docs.google.com/document/d/e/2PACX-1vS5Ps-nOxtMvAhwB6AkO9HxmTy3NkAGuvVg-vMKmyYusN1PAFhZitU1lRim27pNXF67h4jNN_SEukNv/pub)
 
 ![Extract of score](/media/herbertScore.png "Sounding secrecy score")
 
+This Method of working resonates with the way I like to work and outputs possibilities of new sounds within the imagination - which is exactly what I need to motivate me at this time.
 ________________
 ## Experiment
 Thursday 5th Novemeber 2020 MORNING
@@ -540,6 +547,14 @@ http://kitekitekitekite.com/
 Really inspiring podcast about the issues of facial recognition and the problems of technology and indigenous cultures.
 
 
+## Experiment 
+Date Sunday 17th January -
+### What was done
+First time back to really working on this project due to other commitments - been looking at possibilities of Covid friendly options for delivering this project - looking at 3 possible options:
+
+Plan A - Installation - Multichannel installation (as per original idea)
+Plan B - Website - software - interactive website delivered online in virtual space for each audience member
+Plan C - Video Demonstration of compositions
 
 
 
