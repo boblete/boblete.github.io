@@ -81,7 +81,7 @@ I am looking to capture participants voices - currently this has been touted as 
 
 
 #### Results
-I was hoping that the voices would be more like myself - however currently they are far too synthetic. Any quality is MASKED by the digital nature of the voices… This definately feels like technology on the cusp - but still that - I only hear glimpses of myself in the voices - and others don't hear me at all. 
+I was hoping that the voices would be more like myself - however currently they are far too synthetic. Any quality is MASKED by the digital nature of the voices… This definitely feels like technology on the cusp - but still that - I only hear glimpses of myself in the voices - and others don't hear me at all. 
 
 ---
 ## Experiment 5
@@ -124,7 +124,7 @@ To see what kind of sounds were created by using the body as a controller - and 
 I was hoping that sensors would work - but without experience this isnt conducive - it also is not passive but active - I feel like the machine should react to motion and vibrations in the room as much as sound and vision - to give it another sense
 
 #### Results - 
-Nice composition but the controllers seem too sporadic uncontrollable and fraught with failure-  great for sound design - but unusable for the general public unless sublte or de sensetised - for example: a background pad with its subtle lfo's mapped to parameters.
+Nice composition but the controllers seem too sporadic uncontrollable and fraught with failure-  great for sound design - but unusable for the general public unless subtle or desensitized - for example: a background pad with its subtle lfo's mapped to parameters.
 ---
 ## Experiment Date 10 Nov 2019
 
@@ -134,13 +134,13 @@ SO here is a first Sonification test in processing
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RQ1XXCvKtXQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Concept - Why Did I do this?
-Utilising slit scan words and sound to create emmersion - alsongside generated compositions taken from the Kinect reading depth within the room
+Utilising slit scan words and sound to create immersion - alongside generated compositions taken from the Kinect reading depth within the room
 
 #### Ambition - Why does this matter?
-How does rective sound change the experience? 
+How does reactive sound change the experience? 
 
 #### Results 
-Its definately interesting - but the composition is too threatening - no one would be drawn in. The words being distorted by the depth camera is something that might make it into the final piece - the idea that it is also
+Its definitely interesting - but the composition is too threatening - no one would be drawn in. The words being distorted by the depth camera is something that might make it into the final piece - the idea that it is also
 
 ## Experiment Date 07 March 2020
 
@@ -164,7 +164,7 @@ Can a voice be constructed from acts of sousveillance
 A new idea to hear what can be created 
 
 #### Results 
-Its definately interesting - spooky but not really the aesthetic I was looking for - I am watching you is not a phrase that really I dshould have chosen
+Its definitely interesting - spooky but not really the aesthetic I was looking for - I am watching you is not a phrase that really I dshould have chosen
 
 ---
 
@@ -307,7 +307,7 @@ Excellent video based online art based on facial recognition algorhythms
 ---
 ## Workshop 
 Date Tuesday 2nd November 2020
-Hearing the Impossible with MAtthew Herbert 
+Hearing the Impossible with Matthew Herbert 
 
 ### What
 THis workshop looking at scoring impossible sounds - what would those sounds be - the score I have created looks at the idea of the sounds that could be possible
@@ -318,11 +318,11 @@ THis workshop looking at scoring impossible sounds - what would those sounds be 
 This Method of working resonates with the way I like to work and outputs possibilities of new sounds within the imagination - which is exactly what I need to motivate me at this time.
 ---
 ## Experiment
-Thursday 5th Novemeber 2020 MORNING
+Thursday 5th November 2020 MORNING
 Facial recognition test 004 
 #### Ambition - Why does this matter?
 Trying to at least register all the features I can gleam from each moment
-Changing the sound design to something more delicate so it draws the user in - something brutal reveals anger - but really if the user is KNOWN then it should draw them in with delacacy - the magic of prediction is what is intruiging here - can we play a CHORD based on emotion - can we create an algorhythmic chord progression - something that moves through the whole circle in an upwards fashion - each time we get to a chord we trigger a face check for the 'next' chord - if it is operating correctly then we should be able to OVERLAY the last 2 if we can fade OUT 
+Changing the sound design to something more delicate so it draws the user in - something brutal reveals anger - but really if the user is KNOWN then it should draw them in with delicacy - the magic of prediction is what is intruiging here - can we play a CHORD based on emotion - can we create an algorithmic chord progression - something that moves through the whole circle in an upwards fashion - each time we get to a chord we trigger a face check for the 'next' chord - if it is operating correctly then we should be able to OVERLAY the last 2 if we can fade OUT 
 Syncing the TIME to a tone timeline - 
 It would be great if FINDING a face fingerprint changed the rhythm of the piece - if we are drawing grids COULD we have a bunch of tone instruments with teeny tiny samples in them that are triggered by the numbers? If we are mapping to grey scale simply then we can map to a midi value? 
 
@@ -336,7 +336,7 @@ also want to quickly use ffmpeg to create mp3 versions of ABLETON jams for aifs 
 
 ---
 ## Experiment
-Thursday 5th Novemeber 2020 AFTERNOON
+Thursday 5th November 2020 AFTERNOON
 Facial recognition test 005 
 ![alt text](/media/5_nov_1.png "2 faces")
 
@@ -345,12 +345,12 @@ Fixing up the more compositional issues - and running things from TONE timelines
 All the timers are now tied to tone itself - the idea here is to run the engine through to TONE - as the ONLINE synthesis engine
 
 #### What Happened?
-The tests compiled propely with a few minor bugs.
+The tests compiled properly with a few minor bugs.
 
 #### What was revealed?
 
 It sounds more musical  but Its too busy - there is sooo much data we need a way of shaping the sound not through pitch but through rhythm and texture.Or the data needs filtering
-theres also a bug in 2 faces that shows up as an issue that I am only passing 1 variable to the face not splitting them - needs adressing that the labeling is uniform...
+theres also a bug in 2 faces that shows up as an issue that I am only passing 1 variable to the face not splitting them - needs addressing that the labeling is uniform...
 
 ---
 ## Experiment 
@@ -472,9 +472,9 @@ I may need to compose 5 movements - and also Male Female / age related textures 
 I want the work to provoke so I need better writing - time to get professional help
 
 In collaboration with Emma Kelly from brightondrama.co.uk we have started to characterise the machine.
-The Idea is that she/he/they is a clever but narcisistic silicone valley child in an adults body.
+The Idea is that she/he/they is a clever but narcissistic silicone valley child in an adults body.
 
-Incredibly shallow. ONly really interest in consuming and harvesting you to for data. It requires a character to attempt to illicit responses. What if the surveilance machine gets bored and wants to provoke you into making trouble - especially one so naive that it cannot understand its place in the world. Its only intent is reading you - and categerising you and once it is done it ignores you
+Incredibly shallow. ONly really interest in consuming and harvesting you to for data. It requires a character to attempt to illicit responses. What if the surveillance machine gets bored and wants to provoke you into making trouble - especially one so naive that it cannot understand its place in the world. Its only intent is reading you - and categerising you and once it is done it ignores you
 
 
 ###### Meeting with Emma Kelly from Brighton Writers Friday 27th November
@@ -482,7 +482,7 @@ Incredibly shallow. ONly really interest in consuming and harvesting you to for 
 
 
 How do you make people feel X - how does it want to feel
-WHo is your audience - how do you pursuade THEM
+WHo is your audience - how do you persuade THEM
 What is the Reality of that interaction in play 
 Some will be amused…some may be cross
 If it does X to an audience What is the response? 
@@ -495,7 +495,7 @@ What is its Personality?
 - Then it can get hurt and offended.
 - It might get stuck somewhere
 - Sillicone valley slut
-- Narcisistic personality disorder.
+- narcissistic personality disorder.
 - Generic 
 - Incredibly shallow.
 
