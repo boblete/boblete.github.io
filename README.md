@@ -84,6 +84,7 @@ I am looking to capture participants voices - currently this has been touted as 
 I was hoping that the voices would be more like myself - however currently they are far too synthetic. Any quality is MASKED by the digital nature of the voices… This definitely feels like technology on the cusp - but still that - I only hear glimpses of myself in the voices - and others don't hear me at all. 
 
 ---
+
 ## Experiment 5
 Date 4 Nov 2019
 
@@ -616,7 +617,7 @@ Looking to javascript and web platforms as a way to recreate earlier processing 
 
 ![Slit Scan 2](media/Javascript Slit Scan 2.png "Slit Scan 2")
 
-(Slit Scan Code Pen)[https://codepen.io/SarahC/pen/maGzMG]
+[Slit Scan Code Pen](https://codepen.io/SarahC/pen/maGzMG)
 
 
 ---
