@@ -134,6 +134,14 @@ How does rective sound change the experience?
 #### Results 
 Its definately interesting - but the composition is too threatening - no one would be drawn in/
 
+
+________________
+
+## Inspiration 
+Date August 1  2020
+the bias and power imbalance of algorithms - Joy Buolamwini's websites a nice jumping off point as is Kate Crawford https://www.katecrawford.net/ her interview on Dryhursts & Herndons Interdependance podcast is a great listen
+
+Algorithmic Justice League - Unmasking AI harms and biases https://www.ajl.org/ 
 ________________
 
 ## Experiment 
@@ -198,6 +206,8 @@ Excellent bunch of lectures by likeminded researchers.
 4th October - Register here: Listening With The Pandemic
 
 To quote Liquid Architecture: “Amidst oppressive and extractive forms of state and corporate listening, practices of collaborative study, experimentation and resistance will, we hope, enable us to develop strategies for recalibrating our relationships to machine listening, whether that be through technological interventions, alternative infrastructures, new behaviors, or political demands. With so many cultural producers - whose work and research is crucial for this kind of project - thrown into deeper precarity and an uncertain future by the unfolding pandemic, we also hope that this project will operate as a quasi-institution: a site of collective learning about and mobilisation against the coming world of listening machines.”
+
+
 
 ________________
 ## Experiment 
@@ -516,7 +526,7 @@ https://soundcloud.com/boblet/sounddesign5/
 THis version plays with a more classic 70s eno vibe (7th) instrument that is adequate but the newural net sometimes picks unsutable notes in the markov chain with the octave randomiser - makes it sound more like Queens flash gordon to my ears whic is NOT what I was expecting - if we use this then we need to look at sorting out the models
 
 ## Experiment 
-Date Monday 7th December -
+Date Sunday 6th - Monday 7th December
 ### What was done
 Redoing the sound design using a different synth per last facial expression.
 
@@ -529,6 +539,14 @@ Redoing the sound design using a different synth per last facial expression.
 
 ![Cables Experiment](media/7_dec_2020_1.png "Cables Experiment")
 ![Cables screenshot](media/cables_screenshot.png "Cables Screenshot")
+
+
+### What was revealed
+This really is the culmination of allot of different experiments over the weekend. I felt that a flow state was achieved in this practice revealing synthesis that resonated with the ideas of unrandom randomness generated within these systems. The algorhythms are triggering little state machines - snapshots in ableton that really resonate artistically. I feel I can push this further with feedback but the concept is working. Timings and the fingerprinting system are still up for grabs - but the aesthetic is getting closer to my initial vision of how this should sound. 
+
+A break down of the elements can be heard here:
+
+
 
 
 ## Inspiration
@@ -547,7 +565,7 @@ http://kitekitekitekite.com/
 Really inspiring podcast about the issues of facial recognition and the problems of technology and indigenous cultures.
 
 
-## Experiment 
+## Planning 
 Date Sunday 17th January -
 ### What was done
 First time back to really working on this project due to other commitments - been looking at possibilities of Covid friendly options for delivering this project - looking at 3 possible options:
@@ -556,5 +574,12 @@ Plan A - Installation - Multichannel installation (as per original idea)
 Plan B - Website - software - interactive website delivered online in virtual space for each audience member
 Plan C - Video Demonstration of compositions
 
+## Research & Experementation
+Date Saturdauy 23rd January -
+### What was done
+Looking to javascript and web platforms as a way to recreate earlier processing experiments - I need to find code that has solved some of the earlier visual problems - for example a Slit Scanner
 
+
+![Slit Scan](media/Javascript slit scan.png "Slit Scan")
+![Slit Scan 2](media/JJavascript Slit Scan 2.png "Slit Scan 2")
 
