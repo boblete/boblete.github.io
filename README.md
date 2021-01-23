@@ -610,9 +610,9 @@ Date Saturdauy 23rd January -
 ### What was done
 Looking to javascript and web platforms as a way to recreate earlier processing experiments - I need to find code that has solved some of the earlier visual problems - for example a Slit Scanner
 
-![Slit Scan] ('media/Javascript slit scan.png' "Slit Scan")
+![Slit Scan] (media/Javascript slit scan.png "Slit Scan")
 
-![Slit Scan 2] ('media/Javascript Slit Scan 2.png' "Slit Scan 2")
+![Slit Scan 2] (media/Javascript Slit Scan 2.png "Slit Scan 2")
 
 (Slit Scan Code Pen)[https://codepen.io/SarahC/pen/maGzMG]
 
