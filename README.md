@@ -124,7 +124,7 @@ To see what kind of sounds were created by using the body as a controller - and 
 I was hoping that sensors would work - but without experience this isnt conducive - it also is not passive but active - I feel like the machine should react to motion and vibrations in the room as much as sound and vision - to give it another sense
 
 #### Results - 
-Nice composition but the controllers seem too sporadic uncontrollable and fraught with failure-  great for sound design - but unusable for the general public unless sublte or de sensetised - liuke a background pad mapping parameters.
+Nice composition but the controllers seem too sporadic uncontrollable and fraught with failure-  great for sound design - but unusable for the general public unless sublte or de sensetised - for example: a background pad with its subtle lfo's mapped to parameters.
 ________________
 ## Experiment Date 10 Nov 2019
 
@@ -166,7 +166,7 @@ I wanted to maintain focus in the installation drawing in - I have no experience
 #### Results - 
 The experiment was slightkly unsuccesful there needs to be a smaller throw to the lights - maybe some LED strips would be more useful and control them - also the lighting effected the input of the Kinect something I was not anticipating - if lighting is to be used it should LIGHT the participants not sillhouette them - moving heads might be better but the univercity does not have any.
 
-# Experiment 
+## Experiment 
 Date Tuesday 6th October 2020
 
 ### What
@@ -177,7 +177,6 @@ After writing the thesis I now have more focus - I wish to explore sounds abilit
 
 #### Results - 
 We can track faces in the browser with a webcam - this is successful - what is more interesting is the opensource hackable nature of the code. [Face-api.js](https://github.com/justadudewhohacks/face-api.js/) is used with various open source libraries that are part of the wider infrastructure that facial identification and feature extraction is built upon. This is also open source as is the image sets that the data is trained on - that will prove useful in revealing its true nature to an audience.
-
 
 ________________
 
@@ -214,8 +213,6 @@ Excellent bunch of lectures by likeminded researchers.
 4th October - Register here: Listening With The Pandemic
 
 To quote Liquid Architecture: “Amidst oppressive and extractive forms of state and corporate listening, practices of collaborative study, experimentation and resistance will, we hope, enable us to develop strategies for recalibrating our relationships to machine listening, whether that be through technological interventions, alternative infrastructures, new behaviors, or political demands. With so many cultural producers - whose work and research is crucial for this kind of project - thrown into deeper precarity and an uncertain future by the unfolding pandemic, we also hope that this project will operate as a quasi-institution: a site of collective learning about and mobilisation against the coming world of listening machines.”
-
-
 
 ________________
 ## Experiment 
@@ -347,12 +344,6 @@ Looking at sound design that explores the themes of Security in sound
 #### Results - 
 It has become more ambient - I am not too happy about the ups and downs of the chord progression - its too negative - some aspects of the glitchy sound design are hitting the spot for me - need to work more on the musical aspect - it needs to sound more pensive - more suspensful
 
- //
-What will be done?
-How will it be done?
-What Happened?
-What changed?
-What was revealed?
 
 ________________
 ## Experiment + Research
@@ -363,12 +354,10 @@ collecting images from the data sets to gain inspiration about what is going on 
 ## Experiment 
 Date Tuesday 19 November 2020
 What did I do
-Looking at Audio from previous experiments as a backing to the installation....
- //
+Looking at Audio from previous experiments as a backing to the installation.
 Seems odd to force a narrative onto an improvisation - but looking at it looks interesting for scenes.
-
 How we cans shift scenes - shifting emotional states - the shift in emotion 
-//
+
 
 ## Inspiration 
 
@@ -492,21 +481,20 @@ Be the AI…Teasing out emotions.
 Visuals - threads responses.
 
 #### Work to do: 
-Write up the character persona
-Write a game based story narrative tree
-THen work on the sound design - AND with a projector (to show yourself as a mirror) the machine can also diplay images to provoke you. THis is pulling information fromn CHina's screen cameras where they reveal they are watching you. 
+- [ ] Write up the character persona
+- [ ] Write a game based story narrative tree
+- [ ] Work on the sound design - AND with a projector (to show yourself as a mirror) the machine can also diplay images to provoke you. THis is pulling information fromn CHina's screen cameras where they reveal they are watching you. 
 
 Possibility that a sign board - like a busstop shelter is the best innocuous item for delivering this. 
 Speak to Clive about how this might work (Again time to get professional help).
 
-
 ###### Meeting with Clive Ramble from 1st December
 
 ### What was done
-Clive builds installations for a living - so this was a first discussion of a plan for the installation - after talking to Clive need to take it in a direction and firm up sizes
+Clive builds installations for a living - so this was a first discussion of a plan for the installation - after talking to Clive need to take it in a direction and firm up sizes - utilising this mix as a point of reference for us both
 https://soundcloud.com/boblet/sounddesign-installation-panning-1dec/s-aQ7NCnO5ORC
 
-The idea of a freestanding billboard rings true - but the possibility of having it built to stand outside mmaybe cost prohibitive and too expensive (as is the ability to run power to it.
+The idea of a freestanding billboard rings true - but the possibility of having it built to stand outside mmaybe cost prohibitive and too expensive (as is the ability to run power to it. I think this has firmed my idea that if it is an istallation (post covid please!) 
 
 ![alt text](/media/IMG_9041.jpg "Design Plan 2")
 
@@ -516,11 +504,12 @@ The ideas here is to plan several versions and work out the simplest way to impl
 
 ## Experiment 
 ### Date Thursday 3rd December 
-### What was done>
+### What was done
 More sound design
 https://soundcloud.com/boblet/sounddesign6/s-Az7LwCuquuB
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/940525996%3Fsecret_token%3Ds-Az7LwCuquuB&color=%23766c6c&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/sounddesign6/s-Az7LwCuquuB" title="soundDesign6" target="_blank" style="color: #cccccc; text-decoration: none;">soundDesign6</a></div>
 https://soundcloud.com/boblet/sounddesign5/s-6vR94RDjM7S
-
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/940533811%3Fsecret_token%3Ds-6vR94RDjM7S&color=%230e3864&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/sounddesign5/s-6vR94RDjM7S" title="soundDesign5" target="_blank" style="color: #cccccc; text-decoration: none;">soundDesign5</a></div>
 #### Ambition - Why does this matter?
 In light of Kerstens comments regarding the non dancability of the installation - looking at a more conceptual idea of the instalation soundtrack that doesnt lean on my normal dance music tropes - but instead looks more towards the clean digital sounds. Utilising audio fingerprints - and the wave table form  - still unsure if the machine should be voiced - it is almost too blatant - 
 
