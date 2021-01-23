@@ -5,9 +5,9 @@ Date Sept 31 2019
 What?
 Choral Audio Test 01
 [SOUNDCLOUD CHORAL](https://soundcloud.com/boblet/choral-audio-test-01/s-8kBu3)
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/680500142%3Fsecret_token%3Ds-8kBu3&color=%231f1f1f&inverse=true&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/choral-audio-test-01/s-8kBu3" title="Choral Audio Test 01" target="_blank" style="color: #cccccc; text-decoration: none;">Choral Audio Test 01</a></div>
 
-
-I created a choral audio test - based on some white noise and samples of the voice. I aimed to look at giving a computer a voice. I wanted to see if I could create something that wouldnt be too boring that created the sound of the machine and was obviously mechanical but using generated phonemes
+I created a choral audio test - based on some white noise and manipulated samples of the voice. The initial idea is to look at giving a computer a multiplicious voice. I wanted to see if I could create something that wouldnt be too boring that created the sound of the machine and was obviously mechanical but using generated phonemes sampled and sequenced.
 
 
 #### Concept - Why did I do this?
@@ -15,15 +15,15 @@ In order to understand the aesthetics of machine voices.
 
 
 #### Ambition - Why does this matter?
-To give the machines voiuces is to reveal them - what is the aesthetic nature of these voices/
+To give the machines voiuces is to reveal them - what is the aesthetic nature of these voices?
 
 
 #### Results - 
 I personally like the results - however the response from the group triggered a range of emotions :
 
-Boredom from some -  I agree
+Boredom from some -  I can agree
 Others thought it too continuous….that there was no breath to the voices
-This is an interesting comment and maybe that makes it the machine
+This is an interesting comment and maybe that makes it the machine. THe idea of a lack of breath could be useful in hiding any humanity in a voice - is this more powerful than a glitch in the imagination? Maybe not but an interesting concept.
 ________________
 
 ## Experiment 2
@@ -32,7 +32,7 @@ Date 2 Oct 2019
 What
 [Mini mix](https://soundcloud.com/boblet/dmsa-listening-guide-minimix)
 
-<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/692661133%3Fsecret_token%3Ds-pN5Pv&color=%2351864e&inverse=true&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/dmsa-listening-guide-minimix/s-pN5Pv" title="DMSA Listening Guide / MiniMix" target="_blank" style="color: #cccccc; text-decoration: none;">DMSA Listening Guide / MiniMix</a></div>
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/692661133%3Fsecret_token%3Ds-pN5Pv&color=%231f1f1f&inverse=true&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/dmsa-listening-guide-minimix/s-pN5Pv" title="DMSA Listening Guide / MiniMix" target="_blank" style="color: #cccccc; text-decoration: none;">DMSA Listening Guide / MiniMix</a></div>
 
 #### Concept - Why Did I do this?
 I wanted to create a little point of reference to my historic work to ensure that aesthetically I do not (or do) deviate from the work that has come before. This contains work from early work as [The Average Man](https://open.spotify.com/artist/3boQxzuvkSpIRhX3JfNJeF?si=mBkz4unTRxaen9njjU58zw) through to [Lil Bo Bleep](https://soundcloud.com/lil-bo-bleep) work and then installation and hack work/
