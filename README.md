@@ -109,6 +109,8 @@ Date 7 Nov 2019
 ### What did I do?
 
 ![Koma](media/koma.jpg "Koma")
+![Koma](media/Koma Sensors.JPG "Koma")
+
 Live jam with some body controled modular synths built in RACK and processing - experimenting with some contact controllers into my [Koma Electonic](https://koma-elektronik.com/?product=field-kit) Field kit. This is triggering some CV controls into a Volca Modular.
 
 I reworked this into a composition:
