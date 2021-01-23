@@ -24,7 +24,7 @@ I personally like the results - however the response from the group triggered a 
 Boredom from some -  I can agree
 Others thought it too continuous….that there was no breath to the voices
 This is an interesting comment and maybe that makes it the machine. THe idea of a lack of breath could be useful in hiding any humanity in a voice - is this more powerful than a glitch in the imagination? Maybe not but an interesting concept.
-________________
+---
 
 ## Experiment 2
 Date 2 Oct 2019
@@ -44,7 +44,7 @@ I wanted to maintain some core aesthetics from previous projects. A listening re
 #### Results - 
 I can already see by adding in the last experiment that to the end of the mix that I need to be more aggressive in my sound choices, I wanted to look back at my work to see what still resonated, as well as share the results with the group. Unfortunately this did not occur but it is still useful for introverted listening.
 
-________________
+---
 
 ## Experiment 3
 Date 10 OCt 2019
@@ -62,7 +62,7 @@ I wish to build on my work rather than reinvent the sound pallet completely.
 
 #### Results - 
 The results are much more aesthetically pleasing. It maintains my connection to club culture that was missing, but I feel that the sound could be pushed further. The use of a guitar as an instrument and the theremin reflect some of the work I am trying to build with, but its not in keeping wioth the concept.
-________________
+---
 
 ## Experiment 4
 Date 30 OCT 2019
@@ -83,7 +83,7 @@ I am looking to capture participants voices - currently this has been touted as 
 #### Results
 I was hoping that the voices would be more like myself - however currently they are far too synthetic. Any quality is MASKED by the digital nature of the voices… This definately feels like technology on the cusp - but still that - I only hear glimpses of myself in the voices - and others don't hear me at all. 
 
-________________
+---
 ## Experiment 5
 Date 4 Nov 2019
 
@@ -101,7 +101,7 @@ Interaction needs investment and encourages a playful audience this is a way tha
 
 #### Results - 
 The slit scan is a great part as it utilises the body as its input and shows that people are being recorded. It had my kids dancing infrnt of it for some time so the playfulness is there - but without the extra layer of interaction it feels passive.
-________________
+---
 
 ## Experiment 6
 Date 7 Nov 2019
@@ -125,7 +125,7 @@ I was hoping that sensors would work - but without experience this isnt conduciv
 
 #### Results - 
 Nice composition but the controllers seem too sporadic uncontrollable and fraught with failure-  great for sound design - but unusable for the general public unless sublte or de sensetised - for example: a background pad with its subtle lfo's mapped to parameters.
-________________
+---
 ## Experiment Date 10 Nov 2019
 
 ### What was done
@@ -143,14 +143,14 @@ How does rective sound change the experience?
 Its definately interesting - but the composition is too threatening - no one would be drawn in. The words being distorted by the depth camera is something that might make it into the final piece - the idea that it is also
 
 
-________________
+---
 
 ## Inspiration 
 ### Date August 1  2020
 the bias and power imbalance of algorithms - Joy Buolamwini's websites a nice jumping off point as is [Kate Crawford](https://www.katecrawford.net/) her interview on Dryhursts & Herndons Interdependance podcast is a great listen
 
 [Algorithmic Justice League - Unmasking AI harms and biases] (https://www.ajl.org/)
-________________
+---
 
 ## Experiment 
 Date Friday 28 FEB 2020
@@ -178,7 +178,7 @@ After writing the thesis I now have more focus - I wish to explore sounds abilit
 #### Results - 
 We can track faces in the browser with a webcam - this is successful - what is more interesting is the opensource hackable nature of the code. [Face-api.js](https://github.com/justadudewhohacks/face-api.js/) is used with various open source libraries that are part of the wider infrastructure that facial identification and feature extraction is built upon. This is also open source as is the image sets that the data is trained on - that will prove useful in revealing its true nature to an audience.
 
-________________
+---
 
 ## Experiment 
 Date Thursday 13th-sat 17th October 2020
@@ -201,7 +201,7 @@ What if the installation does nothing unless you sign up - your face goes ignore
 
 We should be able to give a multilayered effect - need to understand what each section of sound will be.
 
-________________
+---
 ## Inspiration 
 [Machine Listening festival](https://www.unsound.pl/en/intermission/machine-listening)
 Excellent bunch of lectures by likeminded researchers.
@@ -214,7 +214,7 @@ Excellent bunch of lectures by likeminded researchers.
 
 To quote Liquid Architecture: “Amidst oppressive and extractive forms of state and corporate listening, practices of collaborative study, experimentation and resistance will, we hope, enable us to develop strategies for recalibrating our relationships to machine listening, whether that be through technological interventions, alternative infrastructures, new behaviors, or political demands. With so many cultural producers - whose work and research is crucial for this kind of project - thrown into deeper precarity and an uncertain future by the unfolding pandemic, we also hope that this project will operate as a quasi-institution: a site of collective learning about and mobilisation against the coming world of listening machines.”
 
-________________
+---
 ## Experiment 
 Date Thursday 20th October 2020
 
@@ -229,7 +229,7 @@ Sucess - I can now map faces record face fingerprints and sonify them in tone.js
 
 [![Facial Recognition test 3 video](https://img.youtube.com/vi/v_lw2GM6sqo/0.jpg)](https://www.youtube.com/watch?v=v_lw2GM6sqo)
 It doesnt sound like my face currently - its  a mess really but fun.
-________________
+---
 ## Experiment 
 Date Thursday 20th October 2020
 
@@ -244,7 +244,7 @@ This is a new branch to look at expression recognition data set - I can get it r
 Still not working need to understand how to test faces without just the UI output of FACEAPI framework - more learning will  be needed.
 
 
-________________
+---
 ## Experiment 
 Date saturday 23rd October 2020
 
@@ -273,13 +273,13 @@ Still stumped - rolling back - but getting:
 
 ![alt text](/media/FeatureFP_SAD_FEARFUL.png "SAD Fearful")
 
-________________
+---
 ## Inspiration 
 [hownormalami](https://www.hownormalami.eu/)
 In this test face detection algorithms will determine how normal you are. 100% privacy friendly.
 
 Excellent video based online art based on facial recognition algorhythms
-________________
+---
 ## Workshop 
 Date Tuesday 2nd November 2020
 Hearing the Impossible with MAtthew Herbert 
@@ -291,7 +291,7 @@ THis workshop looking at scoring impossible sounds - what would those sounds be 
 ![Extract of score](/media/herbertScore.png "Sounding secrecy score")
 
 This Method of working resonates with the way I like to work and outputs possibilities of new sounds within the imagination - which is exactly what I need to motivate me at this time.
-________________
+---
 ## Experiment
 Thursday 5th Novemeber 2020 MORNING
 Facial recognition test 004 
@@ -309,7 +309,7 @@ also want to quickly use ffmpeg to create mp3 versions of ABLETON jams for aifs 
  After playing with this for a while I am not hearing a face - the compositional instrument does not seem to sound like the mesh - so maybe I need something more delicate - I like the Idea of playing with really long delay times and fading the canvas back though time 
 
 
-________________
+---
 ## Experiment
 Thursday 5th Novemeber 2020 AFTERNOON
 Facial recognition test 005 
@@ -327,7 +327,7 @@ The tests compiled propely with a few minor bugs -
 It sounds more musical  but Its too busy - there is sooo much data we need a way of shaping the sound not through pitch but through rhythm and texture.Or the data needs filtering
 theres also a bug in 2 faces that shows up as an issue that I am only passing 1 variable to the face not splitting them - needs adressing that the labeling is uniform...
 
-________________
+---
 ## Experiment 
 Date Tuesday 10 November 2020
 
@@ -345,11 +345,11 @@ Looking at sound design that explores the themes of Security in sound
 It has become more ambient - I am not too happy about the ups and downs of the chord progression - its too negative - some aspects of the glitchy sound design are hitting the spot for me - need to work more on the musical aspect - it needs to sound more pensive - more suspensful
 
 
-________________
+---
 ## Experiment + Research
 Date Tuesday 17 November 2020
 collecting images from the data sets to gain inspiration about what is going on and the bias of the images and data sets....
- //
+ 
 
 ## Experiment 
 Date Tuesday 19 November 2020
@@ -365,7 +365,7 @@ This is the inspiration for the next experiment Based on this work: One Way Mirr
 <iframe src="https://open.spotify.com/embed/track/03rEqExKHDpzCBSrdOwEwu" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 Mark Pritchard words are here:
 
-
+```
 Do you feel secure?
 At Hell City Technologies, you can surf in a clean cyber-ocean with no ads, trackers, malware, or phishing attempts. We guard your personal data by using industry-league EAMC276GQM encryption. It's only seven cents a day to secure your digital life. Use Cloakable. Terms and conditions apply
 
@@ -378,6 +378,7 @@ Welcome to Nuanced Solutions module 1: Building Trust In Your Brand. Say "trust"
 Digital transparency, data trust, nine trackers blocking, in a smart city. Digital transparency, data trust, image de-identified, in a smart city. Citizen empowerment, data trust, RTB network scrambled, in a smart city. A new visual language for data transparency, voice de-identified, in a smart city
 
 The community that sings together, stays together. Smart city, smart governments. Smart energy, smart building. Smart mobility, smart infrastructure. Smart technology, smart healthcare, smart citizens
+```
 
 [via Genius](https://genius.com/Mark-pritchard-one-way-mirror-lyrics)
 
@@ -508,13 +509,7 @@ The ideas here is to plan several versions and work out the simplest way to impl
 More sound design
 https://soundcloud.com/boblet/sounddesign6/s-Az7LwCuquuB
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/940525996%3Fsecret_token%3Ds-Az7LwCuquuB&color=%23766c6c&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/sounddesign6/s-Az7LwCuquuB" title="soundDesign6" target="_blank" style="color: #cccccc; text-decoration: none;">soundDesign6</a></div>
-https://soundcloud.com/boblet/sounddesign5/s-6vR94RDjM7S
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/940533811%3Fsecret_token%3Ds-6vR94RDjM7S&color=%230e3864&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/sounddesign5/s-6vR94RDjM7S" title="soundDesign5" target="_blank" style="color: #cccccc; text-decoration: none;">soundDesign5</a></div>
-#### Ambition - Why does this matter?
-In light of Kerstens comments regarding the non dancability of the installation - looking at a more conceptual idea of the instalation soundtrack that doesnt lean on my normal dance music tropes - but instead looks more towards the clean digital sounds. Utilising audio fingerprints - and the wave table form  - still unsure if the machine should be voiced - it is almost too blatant - 
 
-
-In v 6 https://soundcloud.com/boblet/sounddesign6/s-Az7LwCuquuB
 The main thing I like here is the synth - its still same but using ROUNDS with its ability to sound similar but altered will realy help the work - matched with the Markov chain model of DrChaos in ableton this is a very nice quick way to achieve the endless music that I think the piece deserves - also very simple - so the Notes selected could be altered by a trigger of face recognition.
 
 MAybe the radio and phoneme glitches that happen later on work better. 
@@ -523,8 +518,14 @@ It feels much more melancholic in this version - let us try a test where we get 
 
 Be interesting to see if we can load up the randomiser in 5 different versions based on what states the machine sees
 
-https://soundcloud.com/boblet/sounddesign5/
+https://soundcloud.com/boblet/sounddesign5/s-6vR94RDjM7S
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/940533811%3Fsecret_token%3Ds-6vR94RDjM7S&color=%230e3864&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/sounddesign5/s-6vR94RDjM7S" title="soundDesign5" target="_blank" style="color: #cccccc; text-decoration: none;">soundDesign5</a></div>
+
+
 THis version plays with a more classic 70s eno vibe (7th) instrument that is adequate but the newural net sometimes picks unsutable notes in the markov chain with the octave randomiser - makes it sound more like Queens flash gordon to my ears whic is NOT what I was expecting - if we use this then we need to look at sorting out the models
+
+#### Ambition - Why does this matter?
+In light of Kerstens comments regarding the non dancability of the installation - looking at a more conceptual idea of the instalation soundtrack that doesnt lean on my normal dance music tropes - but instead looks more towards the clean digital sounds. Utilising audio fingerprints - and the wave table form  - still unsure if the machine should be voiced - it is almost too blatant - 
 
 ## Experiment 
 Date Sunday 6th - Monday 7th December
@@ -535,8 +536,7 @@ Redoing the sound design using a different synth per last facial expression.
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/943085572%3Fsecret_token%3Ds-TObBlpgMt6o&color=%231f1f1f&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/sounddesign7/s-TObBlpgMt6o" title="soundDesign7" target="_blank" style="color: #cccccc; text-decoration: none;">soundDesign7</a></div>
 
 [cables](https://cables.gl/edit/5fcf5d06dd01fb43f15dfef2)
-
-
+---
 
 ![Cables Experiment](media/7_dec_2020_1.png "Cables Experiment")
 ![Cables screenshot](media/cables_screenshot.png "Cables Screenshot")
