@@ -345,7 +345,7 @@ Fixing up the more compositional issues - and running things from TONE timelines
 All the timers are now tied to tone itself - the idea here is to run the engine through to TONE - as the ONLINE synthesis engine
 
 #### What Happened?
-The tests compiled propely with a few minor bugs - 
+The tests compiled propely with a few minor bugs.
 
 #### What was revealed?
 
@@ -504,15 +504,15 @@ What can you show them to lead them into an amotional state AND can that really 
 
 You need spacing within that composition to HEAR their effect in it slow it down
 
-Be the AI…Teasing out emotions.
+Be the AI Teasing out emotions.
 Visuals - threads responses.
 
 #### Work to do: 
 - [ ] Write up the character persona
 - [ ] Write a game based story narrative tree
-- [ ] Work on the sound design - AND with a projector (to show yourself as a mirror) the machine can also diplay images to provoke you. THis is pulling information fromn CHina's screen cameras where they reveal they are watching you. 
+- [ ] Work on the sound design - AND with a projector (to show yourself as a mirror) the maschine can also diplay images to provoke you. This is pulling inspiration fromn China's street screen cameras where they reveal they are watching you. 
 
-Possibility that a sign board - like a busstop shelter is the best innocuous item for delivering this. 
+Possibility that a sign board - like a bus stop shelter is the best innocuous item for delivering this. 
 Speak to Clive about how this might work (Again time to get professional help).
 
 ###### Meeting with Clive Ramble from 1st December
@@ -521,7 +521,7 @@ Speak to Clive about how this might work (Again time to get professional help).
 Clive builds installations for a living - so this was a first discussion of a plan for the installation - after talking to Clive need to take it in a direction and firm up sizes - utilising this mix as a point of reference for us both
 https://soundcloud.com/boblet/sounddesign-installation-panning-1dec/s-aQ7NCnO5ORC
 
-The idea of a freestanding billboard rings true - but the possibility of having it built to stand outside mmaybe cost prohibitive and too expensive (as is the ability to run power to it. I think this has firmed my idea that if it is an istallation (post covid please!) 
+The idea of a freestanding billboard rings true - but the possibility of having it built to stand outside may be cost prohibitive and too expensive (as is the ability to run power to it. I think this has firmed my idea that if it is an installation (post covid please!) 
 
 ![alt text](/media/IMG_9041.jpg "Design Plan 2")
 
@@ -548,10 +548,10 @@ https://soundcloud.com/boblet/sounddesign5/s-6vR94RDjM7S
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/940533811%3Fsecret_token%3Ds-6vR94RDjM7S&color=%230e3864&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/sounddesign5/s-6vR94RDjM7S" title="soundDesign5" target="_blank" style="color: #cccccc; text-decoration: none;">soundDesign5</a></div>
 
 
-THis version plays with a more classic 70s eno vibe (7th) instrument that is adequate but the newural net sometimes picks unsutable notes in the markov chain with the octave randomiser - makes it sound more like Queens flash gordon to my ears whic is NOT what I was expecting - if we use this then we need to look at sorting out the models
+THis version plays with a more classic 70s eno vibe (7th) instrument that is adequate but the neural net sometimes picks unsutable notes in the markov chain with the octave randomiser - makes it sound more like Queens 'Flash Gordon' to my ears which is NOT what I was expecting - if we use this then we need to look at sorting out the models
 
 #### Ambition - Why does this matter?
-In light of Kerstens comments regarding the non dancability of the installation - looking at a more conceptual idea of the instalation soundtrack that doesnt lean on my normal dance music tropes - but instead looks more towards the clean digital sounds. Utilising audio fingerprints - and the wave table form  - still unsure if the machine should be voiced - it is almost too blatant - 
+In light of Kerstens comments regarding the non dancability of the installation - looking at a more conceptual idea of the installation soundtrack that doesn't lean on my normal dance music tropes - but instead looks more towards the clean digital sounds. Utilising audio fingerprints - and the wave table form  - still unsure if the machine should be voiced - it is almost too blatant - 
 
 ## Experiment 
 Date Sunday 6th - Monday 7th December
@@ -578,7 +578,7 @@ A break down of the elements can be heard here:
 ---
 
 ## Inspiration
-Interdependance Podcast - 
+Interdependence Podcast - 
 Protocols, Permissions and non-human communication with the Indigenous Protocol and Artificial Intelligence Working Group | Holly Herndon and Mat Dryhurst on Patreon
 [Podcast]( https://www.patreon.com/posts/45335690 )
 
