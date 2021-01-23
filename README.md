@@ -115,46 +115,47 @@ Live jam with some body controled modular synths built in RACK and processing - 
 
 I reworked this into a composition:
 [Middle Rhythm 2](https://soundcloud.com/boblet/middlerhythm-02)
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/707908156%3Fsecret_token%3Ds-Gm9p8&color=%23862c43&inverse=false&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/middlerhythm-02/s-Gm9p8" title="MiddleRhythm 02" target="_blank" style="color: #cccccc; text-decoration: none;">MiddleRhythm 02</a></div>
+
 #### Concept - Why Did I do this?
 To see what kind of sounds were created by using the body as a controller - and if they can be tuned to an existing composition. Utilising signal data to control synthesis.
 
 #### Ambition - Why does this matter?
-I was hoping that sensors would work - but without experience this isnt conducive - it also is not passive but active - I feel like the machine should
+I was hoping that sensors would work - but without experience this isnt conducive - it also is not passive but active - I feel like the machine should react to motion and vibrations in the room as much as sound and vision - to give it another sense
 
 #### Results - 
-Nice composition but the controllers seem too sporadic
+Nice composition but the controllers seem too sporadic uncontrollable and fraught with failure-  great for sound design - but unusable for the general public unless sublte or de sensetised - liuke a background pad mapping parameters.
 ________________
-Experiment 7
-Date 
-Date 10 Nov 2019
+## Experiment Date 10 Nov 2019
 
-What
-Sonification test….
+### What was done
+SO here is a first Sonification test in processing
 [Matching video and data mapped to a synth…](https://youtu.be/RQ1XXCvKtXQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RQ1XXCvKtXQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Concept - Why Did I do this?
-Utilising slit scan and sound to create emmersion - alsongside generated compositions
+Utilising slit scan words and sound to create emmersion - alsongside generated compositions taken from the Kinect reading depth within the room
 
 #### Ambition - Why does this matter?
 How does rective sound change the experience? 
 
 #### Results 
-Its definately interesting - but the composition is too threatening - no one would be drawn in/
+Its definately interesting - but the composition is too threatening - no one would be drawn in. The words being distorted by the depth camera is something that might make it into the final piece - the idea that it is also
 
 
 ________________
 
 ## Inspiration 
-Date August 1  2020
-the bias and power imbalance of algorithms - Joy Buolamwini's websites a nice jumping off point as is Kate Crawford https://www.katecrawford.net/ her interview on Dryhursts & Herndons Interdependance podcast is a great listen
+### Date August 1  2020
+the bias and power imbalance of algorithms - Joy Buolamwini's websites a nice jumping off point as is [Kate Crawford](https://www.katecrawford.net/) her interview on Dryhursts & Herndons Interdependance podcast is a great listen
 
-Algorithmic Justice League - Unmasking AI harms and biases https://www.ajl.org/ 
+[Algorithmic Justice League - Unmasking AI harms and biases] (https://www.ajl.org/)
 ________________
 
 ## Experiment 
 Date Friday 28 FEB 2020
 
-What
+#### What
 Lighting test Millimin 
 #### Concept - Why Did I do this?
 I want to create a surrounding entity to the interactions - a feeling of envelopment. I want to see if I can create reactions within millimin to control a simple dmx lighting rig and screen that reacts to. 
