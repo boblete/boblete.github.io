@@ -575,6 +575,7 @@ A break down of the elements can be heard here:
 [I Can Be Trusted](https://soundcloud.com/boblet/sets/i-can-be-trusted-sonic/s-wdK1pjsv8C7)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1197679558%3Fsecret_token%3Ds-wdK1pjsv8C7&color=%231f1f1f&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/sets/i-can-be-trusted-sonic/s-wdK1pjsv8C7" title="=I can be trusted Sonic Sculpture" target="_blank" style="color: #cccccc; text-decoration: none;">=I can be trusted Sonic Sculpture</a></div>
 
+---
 
 ## Inspiration
 Interdependance Podcast - 
@@ -591,23 +592,29 @@ Protocols, Permissions and non-human communication with the Indigenous Protocol 
 
 Really inspiring podcast about the issues of facial recognition and the problems of technology and indigenous cultures.
 
+---
 
 ## Planning 
 Date Sunday 17th January -
 ### What was done
 First time back to really working on this project due to other commitments - been looking at possibilities of Covid friendly options for delivering this project - looking at 3 possible options:
 
-Plan A - Installation - Multichannel installation (as per original idea)
-Plan B - Website - software - interactive website delivered online in virtual space for each audience member
-Plan C - Video Demonstration of compositions
+- Plan A - Installation - Multichannel installation (as per original idea)
+- Plan B - Website - software - interactive website delivered online in virtual space for each audience member
+- Plan C - Video Demonstration of compositions
+
+---
 
 ## Research & Experementation
 Date Saturdauy 23rd January -
 ### What was done
 Looking to javascript and web platforms as a way to recreate earlier processing experiments - I need to find code that has solved some of the earlier visual problems - for example a Slit Scanner
 
-![Slit Scan] (media/Javascript slit scan.png "Slit Scan")
+![Slit Scan] ('media/Javascript slit scan.png' "Slit Scan")
 
-![Slit Scan 2] (media/Javascript Slit Scan 2.png "Slit Scan 2")
+![Slit Scan 2] ('media/Javascript Slit Scan 2.png' "Slit Scan 2")
 
 (Slit Scan Code Pen)[https://codepen.io/SarahC/pen/maGzMG]
+
+
+---
