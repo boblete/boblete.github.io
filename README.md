@@ -595,7 +595,7 @@ Really inspiring podcast about the issues of facial recognition and the problems
 ---
 
 ## Planning 
-Date Sunday 17th January -
+Date Sunday 17th January 
 ### What was done
 First time back to really working on this project due to other commitments - been looking at possibilities of Covid friendly options for delivering this project - looking at 3 possible options:
 
@@ -606,13 +606,15 @@ First time back to really working on this project due to other commitments - bee
 ---
 
 ## Research & Experementation
-Date Saturdauy 23rd January -
+Date Saturday 23rd January 
+
 ### What was done
 Looking to javascript and web platforms as a way to recreate earlier processing experiments - I need to find code that has solved some of the earlier visual problems - for example a Slit Scanner
 
-![Slit Scan] (media/Javascript slit scan.png "Slit Scan")
 
-![Slit Scan 2] (media/Javascript Slit Scan 2.png "Slit Scan 2")
+![Slit Scan](media/Javascript slit scan.png "Slit Scan")
+
+![Slit Scan 2](media/Javascript Slit Scan 2.png "Slit Scan 2")
 
 (Slit Scan Code Pen)[https://codepen.io/SarahC/pen/maGzMG]
 
