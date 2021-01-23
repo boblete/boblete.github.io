@@ -391,9 +391,10 @@ I created this short sequence:
 
 I want to get someone who knows words better to collaborate with the voice of the machine - as in some stock phrases of what we can say.
 
-Currently I wrote a short script That I gave to various Wave net modeled voices to speak - [wavenet](https://cloud.google.com/text-to-speech/docs/wavenet)
+Currently I wrote a short script That I gave to various Wave net modeled voices to speak -
+[wavenet](https://cloud.google.com/text-to-speech/docs/wavenet)
 
-```Say Trust...I can be trusted. You can trust us. smile. create OUR emotional connection. Look at all the emotion we can make. Show me your sadness. I can help you. I can love you. We are making Emotions together. I can be trusted with your emotions. Your emotions remind me of someone. Why do I make you angry. Why can you not be happy. I did not mean to suprise you. I am Sorry. Let me make you happy. You can trust my voice. I am Safe. I am not looking at you. I am looking away.```
+`Say Trust...I can be trusted. You can trust us. smile. create OUR emotional connection. Look at all the emotion we can make. Show me your sadness. I can help you. I can love you. We are making Emotions together. I can be trusted with your emotions. Your emotions remind me of someone. Why do I make you angry. Why can you not be happy. I did not mean to suprise you. I am Sorry. Let me make you happy. You can trust my voice. I am Safe. I am not looking at you. I am looking away.`
 
 also looking at the enclosure of reason:
 [The-Inclosure-of-Reason](https://technosphere-magazine.hkw.de/p/The-Inclosure-of-Reason-ecTsvnENeC1GXtmgRNaMH9)
@@ -401,12 +402,14 @@ his creation hymn, opens with the paradox of creation:
 ```नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत्```
 Translated as “not the non-existent existed, nor did the existent exist then":Anonymous, trans. Wendy Doniger O’Flaherty, “Nasadiya Sukta,” Rig Veda (10:129). Harmondsworth: Penguin Classics, 1981.  the hymn negotiates the limit of creation with one of the earliest recorded instances of agnosticism – that precondition for a human reason unburdened by theological imperative, and the earliest flicker of a nascent humanism:
 
+```
 Who really knows? 
 Who will here proclaim it?
 Whence was it produced? Whence is this creation?
 The gods came afterwards,  with the creation of this universe.
 Who then knows whence it has arisen?
 Anonymous, trans O’Flaherty, “Nasadiya Sukta,” Rig Veda (10:129).  
+```
 
 It is precisely this agnostic attitude at the root of humanism, itself a regard for the limits of human reason, which needs to be reoriented in the direction of those forms of artificial intelligence (AI) developing today. An attitude that compels modesty in its open admission that the inhuman may elude our epistemological framing of intelligence itself.
 
@@ -415,7 +418,7 @@ It is precisely this agnostic attitude at the root of humanism, itself a regard 
 ### What was done
 I created this composition that is an indication of the direction in which I want it to travel:
 https://soundcloud.com/boblet/sounddesign_installation_26_no/s-9RlcU7ElOiF
-
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/936415834%3Fsecret_token%3Ds-9RlcU7ElOiF&color=%23e6bdcb&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/sounddesign_installation_26_no/s-9RlcU7ElOiF" title="soundDesign_Installation_26_Nov_2020" target="_blank" style="color: #cccccc; text-decoration: none;">soundDesign_Installation_26_Nov_2020</a></div>
 
 The idea is there is a general sound of static interlaced with voices. This composition plays on some of the modes that the machine can move into. The states of its performance - but the reality is that it is just 
 
