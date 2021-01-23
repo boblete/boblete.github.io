@@ -5,7 +5,7 @@ Date Sept 31 2019
 What?
 Choral Audio Test 01
 [SOUNDCLOUD CHORAL](https://soundcloud.com/boblet/choral-audio-test-01/s-8kBu3)
-<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/680500142%3Fsecret_token%3Ds-8kBu3&color=%231f1f1f&inverse=true&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/choral-audio-test-01/s-8kBu3" title="Choral Audio Test 01" target="_blank" style="color: #cccccc; text-decoration: none;">Choral Audio Test 01</a></div>
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/680500142%3Fsecret_token%3Ds-8kBu3&color=%2351864e&inverse=false&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/choral-audio-test-01/s-8kBu3" title="Choral Audio Test 01" target="_blank" style="color: #cccccc; text-decoration: none;">Choral Audio Test 01</a></div>
 
 I created a choral audio test - based on some white noise and manipulated samples of the voice. The initial idea is to look at giving a computer a multiplicious voice. I wanted to see if I could create something that wouldnt be too boring that created the sound of the machine and was obviously mechanical but using generated phonemes sampled and sequenced.
 
@@ -29,28 +29,30 @@ ________________
 ## Experiment 2
 Date 2 Oct 2019
 
-What
+### What was done
 [Mini mix](https://soundcloud.com/boblet/dmsa-listening-guide-minimix)
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/692661133%3Fsecret_token%3Ds-pN5Pv&color=%2351864e&inverse=false&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/dmsa-listening-guide-minimix/s-pN5Pv" title="DMSA Listening Guide / MiniMix" target="_blank" style="color: #cccccc; text-decoration: none;">DMSA Listening Guide / MiniMix</a></div>
 
-<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/692661133%3Fsecret_token%3Ds-pN5Pv&color=%231f1f1f&inverse=true&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/dmsa-listening-guide-minimix/s-pN5Pv" title="DMSA Listening Guide / MiniMix" target="_blank" style="color: #cccccc; text-decoration: none;">DMSA Listening Guide / MiniMix</a></div>
-
-#### Concept - Why Did I do this?
-I wanted to create a little point of reference to my historic work to ensure that aesthetically I do not (or do) deviate from the work that has come before. This contains work from early work as [The Average Man](https://open.spotify.com/artist/3boQxzuvkSpIRhX3JfNJeF?si=mBkz4unTRxaen9njjU58zw) through to [Lil Bo Bleep](https://soundcloud.com/lil-bo-bleep) work and then installation and hack work/
+#### Concept - Why did I do this?
+I wanted to create a little point of reference to my historic work to ensure that aesthetically I do not (or do) deviate from the work that has come before. This contains work from early work as [The Average Man](https://open.spotify.com/artist/3boQxzuvkSpIRhX3JfNJeF?si=mBkz4unTRxaen9njjU58zw) 
+<iframe src="https://open.spotify.com/embed/artist/3boQxzuvkSpIRhX3JfNJeF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+through to [Lil Bo Bleep](https://soundcloud.com/lil-bo-bleep) work and then installation and hack work.
 
 #### Ambition - Why does this matter?
 I wanted to maintain some core aesthetics from previous projects. A listening reference is useful to diverge or build on previous output.
 
 #### Results - 
-I can already see by adding in the last experiment that to the end of the mix that I need to be more aggressive in my sound choices
+I can already see by adding in the last experiment that to the end of the mix that I need to be more aggressive in my sound choices, I wanted to look back at my work to see what still resonated, as well as share the results with the group. Unfortunately this did not occur but it is still useful for introverted listening.
 
 ________________
 
 ## Experiment 3
 Date 10 OCt 2019
 
-What
+### What was done?
 Live jam with new sounds alongside my normal pallet of sounds to refind the work that I was doing before. Utilising my live set with some of the washes from previous experiments and using some fm synth work with heavy overdrive I created some other controllers using theramins as input.
 [FUZZ FM OVERDRIVE](https://soundcloud.com/boblet/first-fuzz-fm-overdrive/s-09NVJ)
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/693465352%3Fsecret_token%3Ds-09NVJ&color=%2351864e&inverse=false&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/first-fuzz-fm-overdrive/s-09NVJ" title="First Fuzz (FM OVERDRIVE)" target="_blank" style="color: #cccccc; text-decoration: none;">First Fuzz (FM OVERDRIVE)</a></div>
 
 #### Concept - Why Did I do this?
 To try and find a more active sound pallet that is more in keeping with my previous work - experiment with some new synthesizers
@@ -68,7 +70,8 @@ Date 30 OCT 2019
 #### What did I do?
 Utilising Lyrebird as a voice generation program….
 [Voice](https://soundcloud.com/boblet/8-audio-0001-2019-10-24-221956)
-I recorded over 40 readings in order to generate a voice clone
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/701266948%3Fsecret_token%3Ds-4YPwb&color=%2351864e&inverse=false&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/8-audio-0001-2019-10-24-221956/s-4YPwb" title="8 - Audio 0001 [2019 - 10 - 24 221956]" target="_blank" style="color: #cccccc; text-decoration: none;">8 - Audio 0001 [2019 - 10 - 24 221956]</a></div>
+I recorded over 40 readings in order to generate a voice clone via AI Software Lyrebird.
 
 #### Concept - Why Did I do this?
 I want to be able to give voice to machines - and I thought that some tests with actual machine generated voices could be useful.
@@ -78,17 +81,19 @@ I am looking to capture participants voices - currently this has been touted as 
 
 
 #### Results
-I was hoping that the voices would be more like myself - however currently they are far too synthetic. Any quality is MASKED by the digital nature of the voices… This definately feels like technology on the cusp - but still that - I only hear glimpses of myself in the voices - and others don't hear me at all.
+I was hoping that the voices would be more like myself - however currently they are far too synthetic. Any quality is MASKED by the digital nature of the voices… This definately feels like technology on the cusp - but still that - I only hear glimpses of myself in the voices - and others don't hear me at all. 
+
 ________________
 ## Experiment 5
 Date 4 Nov 2019
 
 ### What did I do?
-
 [Slit scan experiment](https://youtu.be/LSviEkwfoZg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LSviEkwfoZg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Utilising Processing I wanted to look at the visual aspect of the work - slit scanning is a great tool for playing with time - and to hook a user IN - if they are to improvise with a space then they need to feel like they are playing.
 
-#### Concept - Why Did I do this?
+#### Concept - Why did I do this?
 I want to record people in time and get them to move their movement and behavior being used to generate and alter the composition. - for them to react I need something ‘fun’ just as the major sp’s like google  use services to extract behavior as a surplus.I built a series of magic ‘mirrors’ that look at video over time...
 
 #### Ambition - Why does this matter?
