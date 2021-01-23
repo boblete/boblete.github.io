@@ -605,7 +605,7 @@ First time back to really working on this project due to other commitments - bee
 
 ---
 
-## Research & Experementation
+## Research & Experimentation
 Date Saturday 23rd January 
 
 ### What was done
