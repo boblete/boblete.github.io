@@ -458,15 +458,11 @@ The Idea is that she/he/they is a clever but narcisistic silicone valley child i
 Incredibly shallow. ONly really interest in consuming and harvesting you to for data. It requires a character to attempt to illicit responses. What if the surveilance machine gets bored and wants to provoke you into making trouble - especially one so naive that it cannot understand its place in the world. Its only intent is reading you - and categerising you and once it is done it ignores you
 
 
-#### Work to do: 
-Write up the character persona
-Write a game based story narrative tree
-THen work on the sound design - AND with a projector (to show yourself as a mirror) the machine can also diplay images to provoke you. THis is pulling information fromn CHina's screen cameras where they reveal they are watching you. 
 
-Possibility that a sign board - like a busstop shelter is the best innocuous item for delivering this. 
-Speak to Clive about how this might work (Again time to get professional help).
 
-###### Notes from my meeting with Emma:
+###### Meeting with Emma Kelly from Brighton Writers Friday 27th November
+
+
 
 How do you make people feel X - how does it want to feel
 WHo is your audience - how do you pursuade THEM
@@ -494,6 +490,16 @@ You need spacing within that composition to HEAR their effect in it slow it down
 Be the AI…Teasing out emotions.
 Visuals - threads responses.
 
+#### Work to do: 
+Write up the character persona
+Write a game based story narrative tree
+THen work on the sound design - AND with a projector (to show yourself as a mirror) the machine can also diplay images to provoke you. THis is pulling information fromn CHina's screen cameras where they reveal they are watching you. 
+
+Possibility that a sign board - like a busstop shelter is the best innocuous item for delivering this. 
+Speak to Clive about how this might work (Again time to get professional help).
+
+
+###### Meeting with Clive Ramble from 1st December
 1st December:
 What Done- plan for the installation - after talking to Clive need to take it in a direction and firm up sizes
 https://soundcloud.com/boblet/sounddesign-installation-panning-1dec/s-aQ7NCnO5ORC
@@ -558,14 +564,14 @@ A break down of the elements can be heard here:
 ## Inspiration
 Interdependance Podcast - 
 Protocols, Permissions and non-human communication with the Indigenous Protocol and Artificial Intelligence Working Group | Holly Herndon and Mat Dryhurst on Patreon
-Podcast https://www.patreon.com/posts/45335690 
+[Podcast]( https://www.patreon.com/posts/45335690 )
 
-Indigenous AI https://www.indigenous-ai.net/ 
-Their Position Paper: https://spectrum.library.concordia.ca/986506/7/Indigenous_Protocol_and_AI_2020.pdf 
-Professor Jason Edward Lewis
-http://jasonlewis.org/ 
-Suzanne Kite
-http://kitekitekitekite.com/
+[Indigenous AI ](https://www.indigenous-ai.net/ )
+[Their Position Paper:](https://spectrum.library.concordia.ca/986506/7/Indigenous_Protocol_and_AI_2020.pdf )
+[Professor Jason Edward Lewis](http://jasonlewis.org/ )
+
+[Suzanne Kite]([http://kitekitekitekite.com/)
+
 
 
 Really inspiring podcast about the issues of facial recognition and the problems of technology and indigenous cultures.
@@ -588,3 +594,4 @@ Looking to javascript and web platforms as a way to recreate earlier processing 
 ![Slit Scan](media/Javascript slit scan.png "Slit Scan")
 ![Slit Scan 2](media/JJavascript Slit Scan 2.png "Slit Scan 2")
 
+(Slit Scan Code Pen)[https://codepen.io/SarahC/pen/maGzMG]
