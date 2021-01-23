@@ -500,23 +500,22 @@ Speak to Clive about how this might work (Again time to get professional help).
 
 
 ###### Meeting with Clive Ramble from 1st December
-1st December:
-What Done- plan for the installation - after talking to Clive need to take it in a direction and firm up sizes
+
+### What was done
+Clive builds installations for a living - so this was a first discussion of a plan for the installation - after talking to Clive need to take it in a direction and firm up sizes
 https://soundcloud.com/boblet/sounddesign-installation-panning-1dec/s-aQ7NCnO5ORC
 
 The idea of a freestanding billboard rings true - but the possibility of having it built to stand outside mmaybe cost prohibitive and too expensive (as is the ability to run power to it.
 
-
 ![alt text](/media/IMG_9041.jpg "Design Plan 2")
 
-
-The ideas here is to plan several versions and work out the simplest way to implement a test to get up and running. 
-
+#### Ambition - Why does this matter?
+The ideas here is to plan several versions and work out the simplest way to implement a test to get up and running for the final show  before getting results and building something that can be toured. 
 
 
 ## Experiment 
-### Date Thursday 3rd December -
-### What was done
+### Date Thursday 3rd December 
+### What was done>
 More sound design
 https://soundcloud.com/boblet/sounddesign6/s-Az7LwCuquuB
 https://soundcloud.com/boblet/sounddesign5/s-6vR94RDjM7S
