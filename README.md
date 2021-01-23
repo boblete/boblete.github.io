@@ -451,7 +451,6 @@ The Idea is that she/he/they is a clever but narcisistic silicone valley child i
 Incredibly shallow. ONly really interest in consuming and harvesting you to for data. It requires a character to attempt to illicit responses. What if the surveilance machine gets bored and wants to provoke you into making trouble - especially one so naive that it cannot understand its place in the world. Its only intent is reading you - and categerising you and once it is done it ignores you
 
 
-
 #### Work to do: 
 Write up the character persona
 Write a game based story narrative tree
@@ -545,12 +544,12 @@ Redoing the sound design using a different synth per last facial expression.
 This really is the culmination of allot of different experiments over the weekend. I felt that a flow state was achieved in this practice revealing synthesis that resonated with the ideas of unrandom randomness generated within these systems. The algorhythms are triggering little state machines - snapshots in ableton that really resonate artistically. I feel I can push this further with feedback but the concept is working. Timings and the fingerprinting system are still up for grabs - but the aesthetic is getting closer to my initial vision of how this should sound. 
 
 A break down of the elements can be heard here:
-
-
+[I Can Be Trusted](https://soundcloud.com/boblet/sets/i-can-be-trusted-sonic/s-wdK1pjsv8C7)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1197679558%3Fsecret_token%3Ds-wdK1pjsv8C7&color=%231f1f1f&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/sets/i-can-be-trusted-sonic/s-wdK1pjsv8C7" title="=I can be trusted Sonic Sculpture" target="_blank" style="color: #cccccc; text-decoration: none;">=I can be trusted Sonic Sculpture</a></div>
 
 
 ## Inspiration
-
+Interdependance Podcast - 
 Protocols, Permissions and non-human communication with the Indigenous Protocol and Artificial Intelligence Working Group | Holly Herndon and Mat Dryhurst on Patreon
 Podcast https://www.patreon.com/posts/45335690 
 
@@ -578,7 +577,6 @@ Plan C - Video Demonstration of compositions
 Date Saturdauy 23rd January -
 ### What was done
 Looking to javascript and web platforms as a way to recreate earlier processing experiments - I need to find code that has solved some of the earlier visual problems - for example a Slit Scanner
-
 
 ![Slit Scan](media/Javascript slit scan.png "Slit Scan")
 ![Slit Scan 2](media/JJavascript Slit Scan 2.png "Slit Scan 2")
