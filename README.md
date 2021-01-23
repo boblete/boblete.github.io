@@ -142,14 +142,30 @@ How does rective sound change the experience?
 #### Results 
 Its definately interesting - but the composition is too threatening - no one would be drawn in. The words being distorted by the depth camera is something that might make it into the final piece - the idea that it is also
 
+## Experiment Date 07 March 2020
 
----
+### What was done
+So taking samples recorded of followers I started to build synths using their voices
+Test of allot of the sound design so far - almost all the sounds come from 2 sources - processed sounds of my own social media followers telling me that they are watching me - the other is from foley field recordings from data centers captured by various sources. - The modulations / automations of the tracks / synths are handled by custom facial recognition software.
 
-## Inspiration 
-### Date August 1  2020
-the bias and power imbalance of algorithms - Joy Buolamwini's websites a nice jumping off point as is [Kate Crawford](https://www.katecrawford.net/) her interview on Dryhursts & Herndons Interdependance podcast is a great listen
+All of the reverbs used are from impulse responses from Teufelsberg - an NSA listening tower
+https://soundcloud.com/boblet/watching-test/s-oDhhEz8f3mc
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/825847699%3Fsecret_token%3Ds-oDhhEz8f3mc&color=%23e6bdcb&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/watching-test/s-oDhhEz8f3mc" title="Watching Test 003" target="_blank" style="color: #cccccc; text-decoration: none;">Watching Test 003</a></div>
 
-[Algorithmic Justice League - Unmasking AI harms and biases] (https://www.ajl.org/)
+(NB extra rerender here)
+https://soundcloud.com/boblet/6-audio-2-2020-10-23-080038-im-watching-you-startup-sample/s-415ko6vzFZa
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/968810032%3Fsecret_token%3Ds-415ko6vzFZa&color=%23e6bdcb&inverse=false&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/6-audio-2-2020-10-23-080038-im-watching-you-startup-sample/s-415ko6vzFZa" title="6 - Audio 2 [2020 - 10 - 23 080038] - I&#x27;m Watching you startup Sample" target="_blank" style="color: #cccccc; text-decoration: none;">6 - Audio 2 [2020 - 10 - 23 080038] - I&#x27;m Watching you startup Sample</a></div>
+
+
+
+#### Concept - Why Did I do this?
+Can a voice be constructed from acts of sousveillance
+#### Ambition - Why does this matter?
+A new idea to hear what can be created 
+
+#### Results 
+Its definately interesting - spooky but not really the aesthetic I was looking for - I am watching you is not a phrase that really I dshould have chosen
+
 ---
 
 ## Experiment 
@@ -166,6 +182,15 @@ I wanted to maintain focus in the installation drawing in - I have no experience
 #### Results - 
 The experiment was slightkly unsuccesful there needs to be a smaller throw to the lights - maybe some LED strips would be more useful and control them - also the lighting effected the input of the Kinect something I was not anticipating - if lighting is to be used it should LIGHT the participants not sillhouette them - moving heads might be better but the univercity does not have any.
 
+
+---
+
+## Inspiration 
+### Date August 1  2020
+the bias and power imbalance of algorithms - Joy Buolamwini's websites a nice jumping off point as is [Kate Crawford](https://www.katecrawford.net/) her interview on Dryhursts & Herndons Interdependance podcast is a great listen
+
+[Algorithmic Justice League - Unmasking AI harms and biases] (https://www.ajl.org/)
+---
 ## Experiment 
 Date Tuesday 6th October 2020
 
@@ -452,8 +477,6 @@ The Idea is that she/he/they is a clever but narcisistic silicone valley child i
 Incredibly shallow. ONly really interest in consuming and harvesting you to for data. It requires a character to attempt to illicit responses. What if the surveilance machine gets bored and wants to provoke you into making trouble - especially one so naive that it cannot understand its place in the world. Its only intent is reading you - and categerising you and once it is done it ignores you
 
 
-
-
 ###### Meeting with Emma Kelly from Brighton Writers Friday 27th November
 
 
@@ -583,7 +606,8 @@ Date Saturdauy 23rd January -
 ### What was done
 Looking to javascript and web platforms as a way to recreate earlier processing experiments - I need to find code that has solved some of the earlier visual problems - for example a Slit Scanner
 
-![Slit Scan](media/Javascript slit scan.png "Slit Scan")
-![Slit Scan 2](media/JJavascript Slit Scan 2.png "Slit Scan 2")
+![Slit Scan] (media/Javascript slit scan.png "Slit Scan")
+
+![Slit Scan 2] (media/Javascript Slit Scan 2.png "Slit Scan 2")
 
 (Slit Scan Code Pen)[https://codepen.io/SarahC/pen/maGzMG]
