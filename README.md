@@ -2,7 +2,7 @@
 Date Sept 31 2019
 
 
-What?
+### What?
 Choral Audio Test 01
 [SOUNDCLOUD CHORAL](https://soundcloud.com/boblet/choral-audio-test-01/s-8kBu3)
 <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/680500142%3Fsecret_token%3Ds-8kBu3&color=%2351864e&inverse=false&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/choral-audio-test-01/s-8kBu3" title="Choral Audio Test 01" target="_blank" style="color: #cccccc; text-decoration: none;">Choral Audio Test 01</a></div>
@@ -15,7 +15,7 @@ In order to understand the aesthetics of machine voices.
 
 
 #### Ambition - Why does this matter?
-To give the machines voiuces is to reveal them - what is the aesthetic nature of these voices?
+To give the machines voices is to reveal them - what is the aesthetic nature of these voices?
 
 
 #### Results - 
