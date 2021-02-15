@@ -621,3 +621,13 @@ Looking to javascript and web platforms as a way to recreate earlier processing 
 
 
 ---
+
+(BREAK FOR WORK CRUNCH + Starting MAX MSP COURSE)
+
+## Research & Experimentation
+Date Mon 15th Feb 
+
+### What was done
+Experimenting with MAX MSP Visual Glitch Patch: 
+
+![Glitch Face 2](media/Screenshot 2021-02-15 at 14.24.26.png "Slit Scan 2") 
