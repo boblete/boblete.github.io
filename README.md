@@ -631,3 +631,39 @@ Date Mon 15th Feb
 Experimenting with MAX MSP Visual Glitch Patch: 
 
 ![Glitch Face 2](media/Screenshot 2021-02-15 at 14.24.26.png "Slit Scan 2") 
+
+
+(BREAK FOR WORK CRUNCH + Starting MAX MSP COURSE)
+
+
+## Experimentation
+Date 20th Feb 
+Experimenting with ambient work
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/996347884%3Fsecret_token%3Ds-8TilMtTjZAG&color=%23e6bdcb&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/arp-interrogations/s-8TilMtTjZAG" title="Arp Interrogations" target="_blank" style="color: #cccccc; text-decoration: none;">Arp Interrogations</a></div>
+
+## Experimentation
+Date 2nd March 
+Got back into writing with some of the sounds recorded recently from data output.
+https://soundcloud.com/boblet/erasedu/s-kj979wSgZUe
+
+## Experimentation
+Date Mon 16th March 
+
+### What was done
+Mixing down some tracks made with samples from the work
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1009149208%3Fsecret_token%3Ds-Dtsu0nNsFvz&color=%23e6bdcb&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/cityscape-erased-u-studio1/s-Dtsu0nNsFvz" title="Cityscape Erased U STUDIO1" target="_blank" style="color: #cccccc; text-decoration: none;">Cityscape Erased U STUDIO1</a></div>
+
+## Experimentation
+Date Mon 18th March 
+
+### What was done
+Restarting coding Face synth - combining all the experiments so far
+Nothing to report opther than the slit scanner kept my kids entertained for about an Hour (whilst the AI was in the background happily recording their faces features and landmarks) - the idea of distraction is working
+
+## Experimentation
+Date Mon 20th March 
+
+### What was done
+Starting to combine face grabbing technology with react
+
+The idea here 
