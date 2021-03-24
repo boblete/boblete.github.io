@@ -675,4 +675,6 @@ Date Mon 20th March
 24th March
 Final show inspires me to try to start combining all the elements even more -> loading in insecure cameras from across the world into the page...
 
+More face synth changes
 
+![Face Synth](media/face synth_3_24.png "FaceSynth") 
