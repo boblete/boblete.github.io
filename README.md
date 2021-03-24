@@ -666,4 +666,13 @@ Date Mon 20th March
 ### What was done
 Starting to combine face grabbing technology with react
 
-The idea here 
+The idea here use several experiments and work them togethere
+
+## Experimentation
+Date Mon 20th March 
+
+### What was done
+24th March
+Final show inspires me to try to start combining all the elements even more -> loading in insecure cameras from across the world into the page...
+
+
