@@ -669,12 +669,65 @@ Starting to combine face grabbing technology with react
 The idea here use several experiments and work them togethere
 
 ## Experimentation
-Date Mon 20th March 
+Date Mon 24th March
 
 ### What was done
-24th March
+
 Final show inspires me to try to start combining all the elements even more -> loading in insecure cameras from across the world into the page...
 
 More face synth changes
 
 ![Face Synth](media/face synth_3_24.png "FaceSynth") 
+
+## Experimentation
+Date Mon 25th March 
+
+### What was done
+In studio 1 and Performance studio
+Looking at logistics of producting a system in the performance studio
+There are some technical issues that occur here->
+
+How many machines will I need to run this work ->
+The visuals heat up my machine somewhat and need to operate in the foreground - that then needs to send data to another machine that plays the audio?
+
+It's fine for the static one the websafe one is a simulation of what might be. Scanning faces 
+
+Problems of scale ->
+doesnt find faces unless you are really close->
+CAn I use syphon on another machine thats joining all the feeds -> OR use a camera over IP security system that is scanned
+Problems with project linkup -> cable really flaky ask for cat 5 connector on back wall.
+
+Can we get the DMX lighting rig to fire spots at the audience - Just need 1 Deep spot and a restful mode.
+
+ALSO Make sure the small text is at the bottom -
+Text needs to be much bigger:
+if they are to read and understand.
+
+
+Audio in studio 1
+Need to out put everything as samples and spend some time chopping up for tone to consume
+We can then load up all the voices and get them to trigger....
+Each face last emotion triggers the audio
+The synth is made up of the 16 patterns still -> however I would like to look at how the synth can trigger events via Midi other than read in and quantise - what can be achieved in a live environment
+
+Need a noise where other faces are found.
+
+Need to formulate script properly
+Need to callibrate the face recognition to read from Canvas...
+To do that we need to sort the stream - I think it needs a better design as a piece.
+If the larger interactions are now at the bottom as possibly a tryptich
+
+
+
+30 March
+The browser is becoming alive
+Started using loops of the audio installation in ableton 
+but mapping them into the tone web audio context
+[!webaudio](media/face audio in browser.png)
+
+SO using multiply loops with volume crossfades seems to work - but the main synth needs design - maybe utilising a software version would work much better with all the values then actually generating real things.
+
+This is definately going in 2 directions - the installation is much more fully formed
+But the web version allows you to play with your face more....
+
+But its getting laggy needs optimising
