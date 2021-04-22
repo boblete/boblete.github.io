@@ -685,9 +685,9 @@ Date Mon 25th March
 ### What was done
 In studio 1 and Performance studio
 Looking at logistics of producting a system in the performance studio
-There are some technical issues that occur here->
+There are some technical issues that occur here
 
-How many machines will I need to run this work ->
+How many machines will I need to run this work 
 The visuals heat up my machine somewhat and need to operate in the foreground - that then needs to send data to another machine that plays the audio?
 
 It's fine for the static one the websafe one is a simulation of what might be. Scanning faces 
@@ -723,7 +723,7 @@ If the larger interactions are now at the bottom as possibly a tryptich
 The browser is becoming alive
 Started using loops of the audio installation in ableton 
 but mapping them into the tone web audio context
-[!webaudio](media/face audio in browser.png)
+![webaudio](media/face audio in browser.png)
 
 SO using multiply loops with volume crossfades seems to work - but the main synth needs design - maybe utilising a software version would work much better with all the values then actually generating real things.
 
