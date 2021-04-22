@@ -756,12 +756,12 @@ Face mask leraning models - Interesting Idea but can't get hold of a copy.
 5-22 April
 ### What was done
 Intensive work on the web version of exploring the audio work.
-[!web_version_01](media//10-22_April_01.png)
-[!web_version_02](media//10-22_April_02.png)
-[!web_version_03](media//10-22_April_03.png)
-[!web_version_04](media//10-22_April_04.png)
-[!web_version_05](media//10-22_April_05.png)
-[!web_version_06](media//10-22_April_06.png)
+![web_version_01](media//10-22_April_01.png)
+![web_version_02](media//10-22_April_02.png)
+![web_version_03](media//10-22_April_03.png)
+![web_version_04](media//10-22_April_04.png)
+![web_version_05](media//10-22_April_05.png)
+![web_version_06](media//10-22_April_06.png)
 
 #### Concept/Ambition - Why Did I do this?
 SO the web version is moving towards completion - concentrating now on the central panel of the tryptic.
@@ -783,11 +783,11 @@ Sound design needs more work - spatialisation also needs more work.
 ### What was done
 Set up a rudimentary version running on a laptop in the studio to test rear projection -
 
-[!installation0](media/installation_0.jpg)
-[!installation1](media/installation_1.jpg)
-[!installation2](media/installation_2.jpg)
-[!installation3](media/installation_3.jpg)
-[!installation4](media/installation_4.jpg)
+![installationn0](media/installation_0.jpg)
+![installationn1](media/installation_1.jpg)
+![installationn2](media/installation_2.jpg)
+![installationn3](media/installation_3.jpg)
+![installationn4](media/installation_4.jpg)
 
 #### Concept/ Ambition
 Trying out rear projection in the performance space. Need to know whats possible.
