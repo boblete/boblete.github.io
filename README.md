@@ -718,7 +718,7 @@ To do that we need to sort the stream - I think it needs a better design as a pi
 If the larger interactions are now at the bottom as possibly a tryptich
 
 
-
+## Experimentation
 30 March
 The browser is becoming alive
 Started using loops of the audio installation in ableton 
@@ -731,3 +731,66 @@ This is definately going in 2 directions - the installation is much more fully f
 But the web version allows you to play with your face more....
 
 But its getting laggy needs optimising
+
+## Experimentation
+5 april
+Issues with the camera -
+
+I cannot use directly the Machine learning on the external camera system. CORS (security) errors taint an image.
+Security protocols need to be white hatted - so the issue here is that security on insecure webcam feeds is that you cannot get at the feed - However there is a white hat method of roundtripping the image via a camera you own - This is a common technique that through physical means can over turn techs digital resatrictions - and is a really good technique for remembering the physical presence and the powers that are held withing the physical.
+
+## EP
+7 April
+Demo of music created with the sounds - this has been on the back burner but managed to find some time to craft some compositions using the material I collated
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1019815270%3Fsecret_token%3Ds-STjGLPzObyk&color=%23e6bdcb&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/boblet" title="TAM (The Average Man)" target="_blank" style="color: #cccccc; text-decoration: none;">TAM (The Average Man)</a> · <a href="https://soundcloud.com/boblet/cityscape-erased-u-studio2/s-STjGLPzObyk" title="Cityscape Erased U STUDIO2" target="_blank" style="color: #cccccc; text-decoration: none;">Cityscape Erased U STUDIO2</a></div>
+
+## Experimentation
+10 April
+Research 
+https://www.nationalgeographic.com/science/article/face-mask-recognition-has-arrived-for-coronavirus-better-or-worse-cvd
+
+Face mask leraning models - Interesting Idea but can't get hold of a copy.
+
+
+## Experimentation
+5-22 April
+### What was done
+Intensive work on the web version of exploring the audio work.
+[!web_version_01](media//10-22_April_01.png)
+[!web_version_02](media//10-22_April_02.png)
+[!web_version_03](media//10-22_April_03.png)
+[!web_version_04](media//10-22_April_04.png)
+[!web_version_05](media//10-22_April_05.png)
+[!web_version_06](media//10-22_April_06.png)
+
+#### Concept/Ambition - Why Did I do this?
+SO the web version is moving towards completion - concentrating now on the central panel of the tryptic.
+I need to be more focused in each section
+
+#### Results - 
+The center panel is where you explore your own face. This requires a machine that can face track - store face landmarks and then store them. It also tracks emotion.
+I'm now using TONE.js for the sound. 
+
+Issues currently are with hosting and bugs.
+Sound issues are that I need to re render compositions that sound more like the emotions. Faces recognition working - and the model is as accurate as I can make it for a webcam - the issue is with playback - 
+
+Sound design needs more work - spatialisation also needs more work.
+
+
+## Installation Experimentation
+22 April
+
+### What was done
+Set up a rudimentary version running on a laptop in the studio to test rear projection -
+
+[!installation0](media/installation_0.jpg)
+[!installation1](media/installation_1.jpg)
+[!installation2](media/installation_2.jpg)
+[!installation3](media/installation_3.jpg)
+[!installation4](media/installation_4.jpg)
+
+#### Concept/ Ambition
+Trying out rear projection in the performance space. Need to know whats possible.
+
+#### Results - 
+
