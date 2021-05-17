@@ -758,6 +758,7 @@ Face mask leraning models - Interesting Idea but can't get hold of a copy.
 Intensive work on the web version of exploring the audio work.
 ![web_version_01](media//10-22_April_01.png)
 ![web_version_02](media//10-22_April_02.png)
+Love how this one is finding a face in a bottle.
 ![web_version_03](media//10-22_April_03.png)
 ![web_version_04](media//10-22_April_04.png)
 ![web_version_05](media//10-22_April_05.png)
@@ -791,6 +792,53 @@ Set up a rudimentary version running on a laptop in the studio to test rear proj
 
 #### Concept/ Ambition
 Trying out rear projection in the performance space. Need to know whats possible.
+How to attatch cameras - how to keep it all tidy -
 
 #### Results - 
+SO Lighting is not my friend - I need it to be dark but not dark -the shadows need to be minimised for the face detector to work.
+
+Biggest issue is that the faces are too small to work at a distance - might need to get a bigger camera -> utilise the webcam
+
+Main things to understand ->
+What camera should I use and where to rig it. 
+SHould I be using 3 screens or just 1 big one? could do the tryptic more simply on 1 big screen split into 3 - maybe start with that as it's already complex
+How can I cable all the other systems to make it cleanly rigged - Is there a fake platform or similar.
+
+How can I keep all the equipment safe and cable free ?
+
+I need to link allot of systems and I really need to get my head round how many machines:
+Left
+1 machine projecting cams (probably a PI) for simplicity
+1 laptop reading it? -> MAX MSP _>Jitter
+
+Canter 
+1 Machine - Running web patch -> audio
+
+Right 
+1 Machine reading faces -> playing max patch.
+
+All joined via OSC - recieving to central brain -> 
+Left laptop running max+ jotter could be one machine + Brain - Center and right could be another
+
+Procesor intensive would be MAX -> but the more machines I can use the better - just unsure whether I can connect them all
+
+Ideally the projection would be on a separate machine runnning syphon.
+
+extra help from: 
+https://www.jroehm.com/2015/10/18/a-simple-guide-to-use-osc-in-the-browser/
+
+
+
+##  Experimentation
+23 April
+
+### What was done
+Setting up Joto to perform my impossible sounds.
+
+
+
+
+
+
+
 
