@@ -837,7 +837,24 @@ Setting up Joto to perform my impossible sounds.
 
 
 
+##  Experimentation
+1 May
 
+### What was done
+Experimentation in the performance studio
+
+Looking at what kind of setup would support the installation with regards to surround
+
+Originally looking at using an ambisonic dome. However I cannot get the envelop software that I am using at home to communicate with the system here dues to numbering
+Looking at abletons mappings it appears I can set up 2 quad systems
+
+##  Experimentation
+17-18 May
+
+### What was done
+Midi protocol tests.
+
+I am now looking at mapping directly into the sound design system.
 
 
 
