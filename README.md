@@ -834,7 +834,10 @@ https://www.jroehm.com/2015/10/18/a-simple-guide-to-use-osc-in-the-browser/
 
 ### What was done
 Setting up Joto to perform my impossible sounds.
-
+https://www.instagram.com/p/COA4fscn1JkVukKoKdbqfdK47C6hCTBLU1Ry6A0/
+The joto (A robot drawing machine) will recieve a score transmitted through IFTT (internet of things protocols) and then draw (or 'jot') a score for the imagination.
+Score for Accidental records
+https://www.instagram.com/p/COIgeKHnf8llJQ3UbkynJmGhT1EtFBRSJoojuA0/
 
 
 ##  Experimentation
@@ -846,7 +849,12 @@ Experimentation in the performance studio
 Looking at what kind of setup would support the installation with regards to surround
 
 Originally looking at using an ambisonic dome. However I cannot get the envelop software that I am using at home to communicate with the system here dues to numbering
-Looking at abletons mappings it appears I can set up 2 quad systems
+Looking at abletons mappings it appears I can set up 2 quad systems.
+
+##  Experimentation
+10 May
+https://www.instagram.com/p/COqtbZPHcHrPebFSwZoE-Qb-tM_lC0fckqa6T40/
+Documenting - The Electrostatic Cloud - this collection of instruments listens to the invisible sounds around us - radio-waves - electromagnetic chirps - and ethereal voices that inaudibly envelop our world -- here I am tuning the temperature controlled envelope that chops the sounds - Samplr on loop pedal duty replaying some of the best moments to give the system some rhythm and something for the ear to hold onto.
 
 ##  Experimentation
 17-18 May
@@ -855,6 +863,39 @@ Looking at abletons mappings it appears I can set up 2 quad systems
 Midi protocol tests.
 
 I am now looking at mapping directly into the sound design system.
+Mapping the live data through midi is much less processor intensive - allowing the sounds to become more dynamic
+And the processor load to be spent on the AI - should be able to remove some frameworks along the way
+
+
+
+##  Mixdown
+20 May
+
+### What was done
+Finished mixing down tracks that form the basis for the inspiration. These are part of my submission for AGM93
+https://soundcloud.com/boblet/sets/ep-demo-i-c-u/s-BXXnLjGD9Sk
+
+Alan (Bob) Smith I<C<U (DEMO) E.P. 01 Are_You_There?
+Demo of a track created from the Melodic Facial Landscape Reader data of myself and close family over the course of lockdown 3. Frustration both personal - residing in one place and that of living through the camera - through zoom based alienation.
+
+Alan (Bob) Smith I<C<U (DEMO) E.P. 02 Rhizomatic Cityscapes
+`This composition was created with data using the Widerface and Tinyface training sets with the Melodic Facial Landscape Reader. The camera was trained o THe pace of life made me realise this as a more frenetic composition.
+
+Alan (Bob) Smith I<C<U (DEMO) E.P. 03 Arp Pareidolia
+Here I was basing the composition using data collected from the miscellany. The capturing of faces that were imagined in the machinery. Machine-driven pareidolia that lent itself to a more natural graceful composition.
+
+##  Floor Plan
+20 May
+
+### What was done
+Sat with the measurements from the performance studio to create a rough floor plan (not quite to scale - needs remeasuring) 
+
+This seems to have some successful outcomes in that the cable runs are long enough need to setup the extra rear speakers in the setup though to ensure everything works together - I have lost a screen folding the other two around the ringlight camera.
+
+![ICU_Floorplan](media/ICU_Layout.svg)
+
+
+
 
 
 
