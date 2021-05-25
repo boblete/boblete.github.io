@@ -868,8 +868,8 @@ And the processor load to be spent on the AI - should be able to remove some fra
 
 Mapping Diagram as follows:
 
-CC  
 
+![Emotional Wheel](media/MidiMappings_01.png)
 
 
 ##  Inspiration
@@ -923,6 +923,12 @@ This seems to have some successful outcomes in that the cable runs are long enou
 Screen projection mapping plan
 So the optima short throw needs mapping 
 
+So with a 6x9 projection I should be able to make 2 screens at 69inches x 78 inches (thats a 78x139 inch screen cut in half losing half an inch on each side) these can be mounted from the floor at a 10 degree angle offcenter that should minimise any shadow within the blackour border.
+
+The issue is that I want to 'angle' the screens around the camera which with a center projector will leave a border. However this should allow be to utilise 2 screens that are vertical with a black border in the middle - the middle section will be blacked out to stop the audience getting blinded - I may have to organise some felt on a separate frame around the camera if the effect is too blinding - but I do need to illuminate the subjects.
+
+![screen drawings 1](media/IMG-0778.JPG)
+![screen drawings 2](media/IMG-0778.JPG)
 
 
 
@@ -935,6 +941,12 @@ Need to map the audio system back to the AI->
 
 
 
+##  Press
+25 May
+### What was done
+So my Accidental editions need some press shots:
+![ICU_Floorplan](media/media/EA0F5B74-1133-40C1-8A1B-046D94A8A86F.JPG)
+/Users/bobsmith/Documents/GitHub/boblete.github.io/media/EA0F5B74-1133-40C1-8A1B-046D94A8A86F.JPG
 
 
 
