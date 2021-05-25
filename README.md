@@ -958,8 +958,53 @@ So my Accidental editions need some press shots:
 ### What was done
 Editing my own version of envelops ambisonics
 ![Envelop](media/envelop.png)
-/Users/bobsmith/Documents/GitHub/boblete.github.io/media/EA0F5B74-1133-40C1-8A1B-046D94A8A86F.JPG
+THis shows the steps needed to create the patch:
+currently we have 7 ceiling speakers and 4 earlevel speakers and 2 subwoofers in the system (see floorplan)
+
+So we have 
+Ceiling
+3       4
+5   6   7
+8       9
+Floor
+10      11
+12      13
+Subwoofer
+15      16
+
+SO in order to map this to the setup we need to decode using the speaker positions subpatch in Max
+This subpatch defines the position of all the speaker channels, with the arguments: n a e d
+
+n: Output channel number [1-...]
+a: Azimuth (in degrees)
+e: Elevation (in degrees)
+d: Distance (generally recommend using 1.)
+
+we can assume that the ceiling speakers are at elevation of +40 except for the center speaker 6 which we can locate at 90 -we then change the distance to be .60 to be the same height as the others that are angled.
+
+Ceiling
+3 : 1 -45. 40. 1.
+4 : 2 45. 40. 1.
+5 : 3 -90. 40. .80
+6 : 4 0. 90. 0.60
+7 : 5 90. 40. 0.80
+8 : 6 -135. 40. 1.
+9 : 7 135. 40. 1.
+Floor
+10 : 8 -45. 0. 1.
+11 : 9 45. 0. 1.
+12 : 10 -135. 0. 1.
+13 : 11 135. 0. 1.
+
+15 - the subs come off channel 1 ambisonics with -3db should be adequate - 
+16 - the subs come off channel 1 ambisonics with -3db should be adequate - 
 
 
+I especially want to use brownian motion with an expanding box (to simulate a throbbing brain)
+![Envelop](media/browning.png)
+In the overheads - I have this working really nicely in the quad system but it would sound even better if the whole system was linked.... hence wanting to creat the whole sound dome.
+
+SO with all these numbers now programmed in I can do this:
+![Performance_Patch](media/performance_studio_dmsa_envelop_patch.png)
 
 
