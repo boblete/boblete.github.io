@@ -938,6 +938,10 @@ The issue is that I want to 'angle' the screens around the camera which with a c
 ### What was done
 Midi return values
 Need to map the audio system back to the AI-> 
+So sending midi out so I can time intervals - using IAC device that I am connected to I just need to set up a receiver that logs out information -
+### why
+So the Idea here is that some of the musical mappings are held in ableton - if we can map the midi output back to the web software we can do lots and lots of things - like have the arpegiattor trigger the visuals.
+
 
 
 
@@ -945,7 +949,15 @@ Need to map the audio system back to the AI->
 25 May
 ### What was done
 So my Accidental editions need some press shots:
-![ICU_Floorplan](media/media/EA0F5B74-1133-40C1-8A1B-046D94A8A86F.JPG)
+![ICU_Floorplan](media/EA0F5B74-1133-40C1-8A1B-046D94A8A86F.JPG)
+/Users/bobsmith/Documents/GitHub/boblete.github.io/media/EA0F5B74-1133-40C1-8A1B-046D94A8A86F.JPG
+
+
+##  Experiment
+25 May
+### What was done
+Editing my own version of envelops ambisonics
+![Envelop](media/envelop.png)
 /Users/bobsmith/Documents/GitHub/boblete.github.io/media/EA0F5B74-1133-40C1-8A1B-046D94A8A86F.JPG
 
 
