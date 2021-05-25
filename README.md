@@ -866,6 +866,28 @@ I am now looking at mapping directly into the sound design system.
 Mapping the live data through midi is much less processor intensive - allowing the sounds to become more dynamic
 And the processor load to be spent on the AI - should be able to remove some frameworks along the way
 
+Mapping Diagram as follows:
+
+CC  
+
+
+
+##  Inspiration
+19 May
+
+Discovered this wheel that is the perfect data set for extracting emotional reference points from the data
+![Emotional Wheel](media/emotion-wheel.jpeg)
+each of the points on the map are actually perfect jumping off points for the AI descripters.
+
+Peaceful -> Neutral
+Mad -> Angry
+Scared -> Fearful / Surprised
+Sad-> Sad
+Joyful-> Happy
+
+Powerful here is not relevant - but could be incorporated into Peacefuk.
+
+
 
 
 ##  Mixdown
@@ -875,17 +897,17 @@ And the processor load to be spent on the AI - should be able to remove some fra
 Finished mixing down tracks that form the basis for the inspiration. These are part of my submission for AGM93
 https://soundcloud.com/boblet/sets/ep-demo-i-c-u/s-BXXnLjGD9Sk
 
-Alan (Bob) Smith I<C<U (DEMO) E.P. 01 Are_You_There?
+Alan (Bob) Smith ICU (DEMO) E.P. 01 Are_You_There?
 Demo of a track created from the Melodic Facial Landscape Reader data of myself and close family over the course of lockdown 3. Frustration both personal - residing in one place and that of living through the camera - through zoom based alienation.
 
-Alan (Bob) Smith I<C<U (DEMO) E.P. 02 Rhizomatic Cityscapes
+Alan (Bob) Smith ICU (DEMO) E.P. 02 Rhizomatic Cityscapes
 `This composition was created with data using the Widerface and Tinyface training sets with the Melodic Facial Landscape Reader. The camera was trained o THe pace of life made me realise this as a more frenetic composition.
 
-Alan (Bob) Smith I<C<U (DEMO) E.P. 03 Arp Pareidolia
+Alan (Bob) Smith ICU (DEMO) E.P. 03 Arp Pareidolia
 Here I was basing the composition using data collected from the miscellany. The capturing of faces that were imagined in the machinery. Machine-driven pareidolia that lent itself to a more natural graceful composition.
 
 ##  Floor Plan
-20 May
+21 May
 
 ### What was done
 Sat with the measurements from the performance studio to create a rough floor plan (not quite to scale - needs remeasuring) 
@@ -893,6 +915,23 @@ Sat with the measurements from the performance studio to create a rough floor pl
 This seems to have some successful outcomes in that the cable runs are long enough need to setup the extra rear speakers in the setup though to ensure everything works together - I have lost a screen folding the other two around the ringlight camera.
 
 ![ICU_Floorplan](media/ICU_Layout.svg)
+
+##  Experiment
+22 May
+
+### What was done
+Screen projection mapping plan
+So the optima short throw needs mapping 
+
+
+
+
+##  Experiment
+23 May
+
+### What was done
+Midi return values
+Need to map the audio system back to the AI-> 
 
 
 
