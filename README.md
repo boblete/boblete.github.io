@@ -930,7 +930,9 @@ The issue is that I want to 'angle' the screens around the camera which with a c
 ![screen drawings 1](media/IMG-0778.JPG)
 ![screen drawings 2](media/IMG-0778.JPG)
 
+So in order to complete the calculations I need this information from  the projector manual:
 
+![optima Manual](media/optima_projector_manual.png)
 
 ##  Experiment
 23 May
