@@ -934,6 +934,14 @@ So in order to complete the calculations I need this information from  the proje
 
 ![optima Manual](media/optima_projector_manual.png)
 
+This states that
+Screen (Diagonal) of 139 inches
+screen size 131.2 x 73 inches
+
+leaving 30 CM from the floor
+at a distance of 5 Meters 
+though there is a 1.2x zoom so we should be able to get the size we require at a distance of 4.16m still a meters and a half shy of the 2.5m I was hoping for for this to work we might have rotate the aspect slightly.
+
 ##  Experiment
 23 May
 
@@ -1010,3 +1018,28 @@ SO with all these numbers now programmed in I can do this:
 ![Performance_Patch](media/performance_studio_dmsa_envelop_patch.png)
 
 
+##  Experiment
+3 June 2021
+### What was done
+Tryout in the Performance studio 
+
+Lots went wrong today. 
+The speaker system doesnt work properly and the whole kit mis behaving
+None of the speakers (genelecs) worked
+
+I need to sort this with Bob on tuesday. Need to use the MAckies not the Genelecs- and run separate systems rather than an ambisonic sound dome.
+
+I did tweak the E4l so it matches channels 15 16 17 18
+
+Laastly (and something I can do this weekend)
+The software is really buggy - dropping faces and lagging - 
+Spent the evening optimising now plotting points and all running OUTSIDE of react - > just a request frame JS loop
+
+Things I learnt is that the await takes too long and we ccan optimise using offscreen context
+
+![new face](media/newface.png)
+
+TODO: We can await matches that trigger a chord.
+So midi in triggers an await that then triggers midi back.
+stores the last midi
+and then reexports it.
