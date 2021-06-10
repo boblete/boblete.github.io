@@ -33,11 +33,11 @@ This work is a chance to reimagine new forms of interaction with these silent ob
 
 Utilising 8 speakers to create a dome of sound alludes to our new nature of listening, one constantly bombarded with new sounds that are unnatural.
 
-Immersion creates a new mode of perception and embodiment incorporating a history of listening and cultural memory...immersive sound design as composition is a way of taking control of the soundscape and counteracting the distracted listening that the media world promotes (Droumeva 2005) 
+>Immersion creates a new mode of perception and embodiment incorporating a history of listening and cultural memory...immersive sound design as composition is a way of taking control of the soundscape and counteracting the distracted listening that the media world promotes (Droumeva 2005) 
 
 The work looks to create new instruments that explode normally silent systems into sound - one that alerts the audience that they are being watched by an entity.  Sonifying the rendered data of facial landmarking and revealing the classifications the systems produce when presented with a face. The biases inherent in the classification library are revealed. Repurposing open source libraries and building new reactive software is a resistance of the vectoralist class by the hacker class (Wark 2015 & 2016).
 
-‘all contending classes have to operate within an infrastructure increasingly designed to the specifications of the vectoral class, which not only subordinates the hacker class to it, but all other classes as well.’ (Wark 2016)
+>‘all contending classes have to operate within an infrastructure increasingly designed to the specifications of the vectoral class, which not only subordinates the hacker class to it, but all other classes as well.’ (Wark 2016)
 
 Resisting the informational surplus streams requires a repurposing of the collection technology, as a gift to the hackers’ (artists’) audience; an extension of Stewart Brand's (1987) comment: ‘Information wants to be free’.  These new instruments allow the ears to expose the talons of the vectoralist vulture and repurposes its devices as a new sensory entertainment for its subjects.
 
@@ -54,7 +54,7 @@ The problems inherent in this interactive work though is to find beauty and a �
 
 Teaching the user these new systems and revealing its data has been done in other works, such as the excellent ‘How Normal Am I’ (Sherp, 2020), the reactionary installations of Studio Moniker and the work and writings of both Joy Buolamwini and Kate Crawford. The techniques here though normally rely on a visual reaction. A problem with a reliance on the eyes is it is a poor sense to understand the multidimensionality of the processes at large. It reveals a very black and white story of fixity within the system and with a reliance on the eyes and its associated technological user interface. 
 
-‘...listening does not find its actuality in a source but performs the interrogation of what that might be.’ (Voegelin, 2012)
+>‘...listening does not find its actuality in a source but performs the interrogation of what that might be.’ (Voegelin, 2012)
 
 Interactions with a system through sound may alter your perception of it and create praxis of the embodied work. The structure of the generated compositions can reveal how data is heard, restoring listening as a resistance against the binary fixity opinions of both our own eyes and the equivalent digital agents. Performance and audience interaction with these systems reveal themselves as playful improvisations, so the intent of these actions can be analysed through the physical senses - no longer virtual but experienced. This playful cycle of improvised exploration can lead to a process that not only educates but prompts political action.
 
