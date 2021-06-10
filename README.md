@@ -1117,7 +1117,12 @@ So midi in triggers an await that then triggers midi back.
 stores the last midi
 and then reexports it.
 
-5th juneGetting closer but need to redo the clocks
+##  Experiment
+4 June 2021
+### what was done?
+Coding test rewriting all the software and performance enhancements
+
+Getting closer but need to redo the clocks
 Getting laggy again - but running 2 canvases super fast.
 
 ![new face A](media/newface2021-05-31b.png)
@@ -1127,7 +1132,7 @@ Getting laggy again - but running 2 canvases super fast.
 ## Mix
 7 June
 ### what was done?
-https://drive.google.com/file/d/1gbPJA_icMYUDjejIzQ8AKMM66bgusejV/view?usp=sharing
+[MIXTAPE](https://drive.google.com/file/d/1gbPJA_icMYUDjejIzQ8AKMM66bgusejV/view?usp=sharing)
 A first pass at a mix. For my musical projects I have always created a playlist and mix - I feel that this time my mix should include inspirational podcasts too as well as music.
 
 ##  Experiment
@@ -1139,6 +1144,6 @@ Rewired speakers with Bob Morton - got in Mackies and the back projector and bro
 ##  Building
 9 June 2021
 ### What was done
-Made some screens - the problem is the boxing in not really working as too wobbly need to add the boxes for stability - IF I put 1 on the bottom and 2 side sections on each end this should work - joining the 2 should then work to stabilise the other arm so it's all straight.
+Made some screens - the problem is the boxing in not really working as too wobbly need to add the boxes for stability - If I put 1 on the bottom and 2 side sections on each end this should work - joining the 2 should then work to stabilise the other arm so it's all straight.
 
-Brynn has offered help - but not really sure what measurents yet need to mock up .
+Brynn has offered help - but not really sure what measurents yet need to mock up.
