@@ -1,3 +1,71 @@
+# ICU
+![new face A](media/ICU_COVER.png)
+
+# Summary
+'ICU' is an immersive interactive sound installation made from a networked collection of interactive devices that render data from the faces of the audience and their movements. 
+
+A single webcam awaits, the eye of the machine waiting to speak, while it searches its senses for input.  
+
+Two screens surround the camera, projecting a digital ‘smart’ mirror, both playful and informative, it encourages you to share more information with the algorithms as you move. When it finds a face a ‘score’ of the rendered data is heard by musically repurposing normally silent AI powered facial recognition systems. Sound is used to embody these secretive processes for revelation; to create an experience to reflect on just who this technology is for.   
+
+The distances used normally to unlock a phone or even record a smile are exposed through sound into an orchestra of digital crackles and arpeggiated melodies extracted from data rendered from the landscape of a face. The system produces a harmony that reveals a darker side to the data, exposing the flawed and biased classifications that allow this machine to understand what it sees.
+
+# Artists Statement
+In 2021, the continuing challenges of COVID-19 have exacerbated governmental strategies the world over in surveilling their population (Tidy 2020). The ubiquity of modern technology, our obsession with it and its newfound multifaceted approach to recording our every move is being leveraged by those in power at an unprecedented scale. This work stands as a form of resistance and reflection, a moment to reflect on what it means to be surveilled by a rhizomatic entity. The work stands not to turn the tide on technological progress, but to pose questions of who the technology is for, and to reveal the secrets of the black box of facial recognition.
+
+By interacting with the work, the act of surveillance becomes a dialogue. An improvisation that exposes the power dynamic held between something that watches and one who understands they are being watched. Any chance at understanding the impact of surrendering personal liberties will require a revelation to the electorate, especially as to what powers remain after the crisis. As Harari (2020) notes ‘Temporary measures have a nasty habit of outlasting emergencies’. To intervene and  reveal the powers that have been introduced requires a new embodied form of surveillance, one that is no longer silent and secret. The work reveals the complexity of AI powered surveillance in a playful embodied system that empowers and educates the observed.
+
+The work is split into 3 devices:
+
+- The Electrostatic Cloud 
+- The Melodic Facial Landscape Reader
+- The Harmonious Classifier
+
+The Electrostatic Cloud is the first you encounter. This instrument listens to the stream of information rendered from the environment around you - spatialised above the observed’s head. Created using a system that listens to the live data in the space - a hint at other systems that are tracked through data. The Temperature, electromagnetic pulses, and waves out of the range of human hearing are transformed into the hearing range and spatialised above the observed in a metaphorical cloud of static pulses and snippets of ethereal voices. 
+
+When the system finds a face the system moves into generating a composition from the observed - The Melodic Facial Landscape Reader. Each classification from the rendered data is transformed into sound. The melodies are formed from the feature landscape of the observed’s face. Each distance translated to a probability weighting for a sequencer. The melody is further augmented by predicted age - and the texture of the sound by more classifications of gender and the confusion inherent in the probability bias of the machine. The emotional expression of the features is used to influence the mood of the melody, the scale and direction of the composition influenced by a smile or frown. The sound is further distorted by aggression or surprise - the whole symphony of sounds rendered from a simple expression.
+
+Finally, this melody is harmonised by a final instrument - The Harmonious Classifier- that reveals through sound ‘harmonic’ matches in the data. Faces that it dreams correlate to the features it can see - the data of which you hear and the classifications appear as visual indicators on the screens in front of you. The information here is created by reverse-engineering the library that the algorithm was trained on  and the data sonified for the user to understand through sound how the machine understands what it sees.
+
+Each instrument reveals these flawed incomplete machine 'thoughts'; disembodied systems of rules, and classifiers that try to render flawed impressions of emotions. Revealing these systems to the physical senses exposes a technology that is used to categorise us by the topography of our faces. How can a machine compare your smile against a corrupted dataset, and who trained it to think it could understand the bend of a lip? When you can interact with flawed reasoning, what does it say? 
+
+This work is a chance to reimagine new forms of interaction with these silent observers to reveal their secrets (Birchall 2015) and bias; hacking the core technology and building new outputs to allow the observed to explore the information rendered from them without their consent. But what experiences can emerge interacting with an entity that only wants to know your surface features? 
+
+Utilising 8 speakers to create a dome of sound alludes to our new nature of listening, one constantly bombarded with new sounds that are unnatural.
+
+Immersion creates a new mode of perception and embodiment incorporating a history of listening and cultural memory...immersive sound design as composition is a way of taking control of the soundscape and counteracting the distracted listening that the media world promotes (Droumeva 2005) 
+
+The work looks to create new instruments that explode normally silent systems into sound - one that alerts the audience that they are being watched by an entity.  Sonifying the rendered data of facial landmarking and revealing the classifications the systems produce when presented with a face. The biases inherent in the classification library are revealed. Repurposing open source libraries and building new reactive software is a resistance of the vectoralist class by the hacker class (Wark 2015 & 2016).
+
+‘all contending classes have to operate within an infrastructure increasingly designed to the specifications of the vectoral class, which not only subordinates the hacker class to it, but all other classes as well.’ (Wark 2016)
+
+Resisting the informational surplus streams requires a repurposing of the collection technology, as a gift to the hackers’ (artists’) audience; an extension of Stewart Brand's (1987) comment: ‘Information wants to be free’.  These new instruments allow the ears to expose the talons of the vectoralist vulture and repurposes its devices as a new sensory entertainment for its subjects.
+
+A code against code approach liberates the information constrained within these platforms to be free, to dance and play and interact, as the hacker class would intend it to be. However, it requires constant intervention to stay unconstrained. Through experimentation with pre-existing systems, the work exposes new ways to interact with them, joining new systems that were never intended on becoming bedfellows.
+
+The work looks to join a new technological counterculture, and add to the arsenal of works that use sound as a method of resistance. Inspiration is found in the ideas of Artveillance (Brighenti 2009) and the work of artists such as Jasmine Guffond and Sam Kidell who look to sound as a possibility of resisting the encroaching technological eavesdroppers. A new form of digital relational aesthetic is activated that utilises the audience and their data as it’s palette, their face as inspiration, and surveillance algorithms as a catalyst for new compositions.
+
+But what does a normally silent surveillance system sound like? 
+The created soundscape explores the voice a security system could have, both metaphorical and actual. Each person's interaction with the system becomes their story, their conversation with the system. The aesthetic sonic choices resolve in the artist's ear, created with inspiration from the fetishistic technologies of modern electronic experimental music as a reaction to rhizomatic surveillance. Taking inspiration from works by Holly Herndon’s ‘Chorus’ and ‘Home’ (2014), and Mark Pritchard’s ‘One Way Mirror’ (2020), a hyperreal electronic soundscape emerges that is both full of the detritus of digital electronic soundscapes but resonant in human choices and decisions. 
+
+The techniques of creation that reside within studio experimentation are part of the practice here, heavily utilising custom web software and repurposed off the shelf code, alongside traditional electronic instrumentation, modular synthesis, Ableton Live and Max MSP. Machine learning leveraging the open-source nature of code in 2021 is also implemented as both an instrument and compositional tool. Markov chains become the compositional decision makers, alongside the mathematically generated voices of WaveNet. The modern experience is one captivated by the lights and sounds of the machines and digital assistants that follow us. To give a new voice to these machines a practice emerges that plunders the culture of self-surveillance.
+
+The problems inherent in this interactive work though is to find beauty and a ‘sublime experience’ (Supper, 2013) for the participant. A balance between revealing the simplicity behind the processes, not becoming one dimensional to the participant, but creating a playful multilayered experience.
+
+Teaching the user these new systems and revealing its data has been done in other works, such as the excellent ‘How Normal Am I’ (Sherp, 2020), the reactionary installations of Studio Moniker and the work and writings of both Joy Buolamwini and Kate Crawford. The techniques here though normally rely on a visual reaction. A problem with a reliance on the eyes is it is a poor sense to understand the multidimensionality of the processes at large. It reveals a very black and white story of fixity within the system and with a reliance on the eyes and its associated technological user interface. 
+
+‘...listening does not find its actuality in a source but performs the interrogation of what that might be.’ (Voegelin, 2012)
+
+Interactions with a system through sound may alter your perception of it and create praxis of the embodied work. The structure of the generated compositions can reveal how data is heard, restoring listening as a resistance against the binary fixity opinions of both our own eyes and the equivalent digital agents. Performance and audience interaction with these systems reveal themselves as playful improvisations, so the intent of these actions can be analysed through the physical senses - no longer virtual but experienced. This playful cycle of improvised exploration can lead to a process that not only educates but prompts political action.
+
+
+
+
+
+# Project Diary
+
+
+
 ## Experiment 1
 Date Sept 31 2019
 
@@ -1043,3 +1111,29 @@ TODO: We can await matches that trigger a chord.
 So midi in triggers an await that then triggers midi back.
 stores the last midi
 and then reexports it.
+
+5th juneGetting closer but need to redo the clocks
+Getting laggy again - but running 2 canvases super fast.
+
+![new face A](media/newface2021-05-31b.png)
+![new face B](media/newface2021-05-31c.png)
+![new face C](media/newface2021-05-31d.png)
+
+## Mix
+7 June
+### what was done?
+https://drive.google.com/file/d/1gbPJA_icMYUDjejIzQ8AKMM66bgusejV/view?usp=sharing
+A first pass at a mix. For my musical projects I have always created a playlist and mix - I feel that this time my mix should include inspirational podcasts too as well as music.
+
+##  Experiment
+8 June 2021
+### What was done
+Setup in the Performance studio 
+Rewired speakers with Bob Morton - got in Mackies and the back projector and brought in more computers to split the load - still running a bit slow - might have to split the screen load into 2 1 computer running the learning the other the surveilance alogrhythm.
+
+##  Building
+9 June 2021
+### What was done
+Made some screens - the problem is the boxing in not really working as too wobbly need to add the boxes for stability - IF I put 1 on the bottom and 2 side sections on each end this should work - joining the 2 should then work to stabilise the other arm so it's all straight.
+
+Brynn has offered help - but not really sure what measurents yet need to mock up .
