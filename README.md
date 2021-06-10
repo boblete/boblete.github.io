@@ -59,12 +59,17 @@ Teaching the user these new systems and revealing its data has been done in othe
 Interactions with a system through sound may alter your perception of it and create praxis of the embodied work. The structure of the generated compositions can reveal how data is heard, restoring listening as a resistance against the binary fixity opinions of both our own eyes and the equivalent digital agents. Performance and audience interaction with these systems reveal themselves as playful improvisations, so the intent of these actions can be analysed through the physical senses - no longer virtual but experienced. This playful cycle of improvised exploration can lead to a process that not only educates but prompts political action.
 
 
+# Thesis
+
+## SOUNDING SECRECY
+
+### REVEALING AND RESISTING UBIQUITOUS CONTEMPORARY SURVEILLANCE THROUGH SOUND
+[Thesis Link Dropbox .pdf](https://www.dropbox.com/s/usbd2gzmq97k554/Smith%20Alan%20%28Bob%29%20MA20.pdf?dl=0)
+
 
 
 
 # Project Diary
-
-
 
 ## Experiment 1
 Date Sept 31 2019
