@@ -3,8 +3,6 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4L-uEGMK3EI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gGE5BQmqg_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 # Synopsis
 
 'ICU' is an immersive interactive sound installation made from a networked collection of interactive devices and custom software that renders data from the faces of the audience and their movements. 
@@ -14,6 +12,8 @@
 At the same time, the data harvested by the AI facial recognition system are sonified to reveal the hidden processes at work. These sounds are diffused around the visitor: 9 ceiling speakers create a sound cloud and 5 speakers at ear-level create the data sonifications, emitting an array of digital crackles and arpeggiated granular melodies.
 
 The system exposes the classifications that allow this machine to understand what it sees. Sound is used to reveal these secretive processes and to create an experiential reflection of the workings of this technology.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gGE5BQmqg_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Artists Statement
 In 2021, the continuing challenges of COVID-19 have exacerbated governmental strategies the world over in surveilling their population (Tidy 2020). The ubiquity of modern technology, our obsession with it and its newfound multifaceted approach to recording our every move is being leveraged by those in power at an unprecedented scale. This work stands as a form of resistance and reflection, a moment to reflect on what it means to be surveilled by a rhizomatic entity. The work stands not to turn the tide on technological progress, but to pose questions of who the technology is for, and to reveal the secrets of the black box of facial recognition.
