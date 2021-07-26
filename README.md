@@ -1,14 +1,19 @@
 # ICU
 ![new face A](media/ICU_COVER.png)
 
-# Summary
-'ICU' is an immersive interactive sound installation made from a networked collection of interactive devices that render data from the faces of the audience and their movements. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4L-uEGMK3EI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A single webcam awaits, the eye of the machine waiting to speak, while it searches its senses for input.  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gGE5BQmqg_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Two screens surround the camera, projecting a digital ‘smart’ mirror, both playful and informative, it encourages you to share more information with the algorithms as you move. When it finds a face a ‘score’ of the rendered data is heard by musically repurposing normally silent AI powered facial recognition systems. Sound is used to embody these secretive processes for revelation; to create an experience to reflect on just who this technology is for.   
+# Synopsis
 
-The distances used normally to unlock a phone or even record a smile are exposed through sound into an orchestra of digital crackles and arpeggiated melodies extracted from data rendered from the landscape of a face. The system produces a harmony that reveals a darker side to the data, exposing the flawed and biased classifications that allow this machine to understand what it sees.
+'ICU' is an immersive interactive sound installation made from a networked collection of interactive devices and custom software that renders data from the faces of the audience and their movements. 
+
+14 speakers and 3 screens surround the visitor with sound, light and images. A giant screen with abstract data towers over the visitor. An interactive scenario is projected on two screens that flank a camera reading the visitor's facial expression. The left screen encourages the visitor to move while sharing their emotion. The right screen projects the data extracted from the visitor and reveals associated images and classifications.  
+
+At the same time, the data harvested by the AI facial recognition system are sonified to reveal the hidden processes at work. These sounds are diffused around the visitor: 9 ceiling speakers create a sound cloud and 5 speakers at ear-level create the data sonifications, emitting an array of digital crackles and arpeggiated granular melodies.
+
+The system exposes the classifications that allow this machine to understand what it sees. Sound is used to reveal these secretive processes and to create an experiential reflection of the workings of this technology.
 
 # Artists Statement
 In 2021, the continuing challenges of COVID-19 have exacerbated governmental strategies the world over in surveilling their population (Tidy 2020). The ubiquity of modern technology, our obsession with it and its newfound multifaceted approach to recording our every move is being leveraged by those in power at an unprecedented scale. This work stands as a form of resistance and reflection, a moment to reflect on what it means to be surveilled by a rhizomatic entity. The work stands not to turn the tide on technological progress, but to pose questions of who the technology is for, and to reveal the secrets of the black box of facial recognition.
