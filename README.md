@@ -1,5 +1,4 @@
 # ICU
-![new face A](media/ICU_COVER.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4L-uEGMK3EI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -72,7 +71,7 @@ Interactions with a system through sound may alter your perception of it and cre
 [Thesis Link Dropbox .pdf](https://www.dropbox.com/s/usbd2gzmq97k554/Smith%20Alan%20%28Bob%29%20MA20.pdf?dl=0)
 
 
-
+![new face A](media/ICU_COVER.png)
 
 # Project Diary
 
