@@ -14,10 +14,14 @@ The system exposes the classifications that allow this machine to understand wha
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gGE5BQmqg_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fboblet%2Ficu-inspiration-podcast%2F" frameborder="0" ></iframe>
+
 # Artists Statement
 In 2021, the continuing challenges of COVID-19 have exacerbated governmental strategies the world over in surveilling their population (Tidy 2020). The ubiquity of modern technology, our obsession with it and its newfound multifaceted approach to recording our every move is being leveraged by those in power at an unprecedented scale. This work stands as a form of resistance and reflection, a moment to reflect on what it means to be surveilled by a rhizomatic entity. The work stands not to turn the tide on technological progress, but to pose questions of who the technology is for, and to reveal the secrets of the black box of facial recognition.
 
 By interacting with the work, the act of surveillance becomes a dialogue. An improvisation that exposes the power dynamic held between something that watches and one who understands they are being watched. Any chance at understanding the impact of surrendering personal liberties will require a revelation to the electorate, especially as to what powers remain after the crisis. As Harari (2020) notes ‘Temporary measures have a nasty habit of outlasting emergencies’. To intervene and  reveal the powers that have been introduced requires a new embodied form of surveillance, one that is no longer silent and secret. The work reveals the complexity of AI powered surveillance in a playful embodied system that empowers and educates the observed.
+
+
 
 The work is split into 3 devices:
 
